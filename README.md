@@ -6,8 +6,8 @@ Degenesis® is TM SIXMOREVODKA Studio GmbH. All rights reserved. This is a 100% 
 
 ## Icons
 
-- `all-icons-urls`: A list of all the icon pages urls. One url peer page, 253 lines.
-- `all-icons-image-urls`: A list of all the icon image urls. Can be easily used by with a download manager or a shell script to retrive locally all the images. The file names will match the `image_name` field of the `.json` files. 
+- `all-icons-urls.txt`: A list of all the icon pages urls. One url peer page, 253 lines.
+- `all-icons-image-urls.txt`: A list of all the icon image urls. Can be easily used by with a download manager or a shell script to retrive locally all the images. The file names will match the `image_name` field of the `.json` files. 
 - `Icons/json/`: One `.json` file per Icon. 
 
 Exemple of `.json` file:
