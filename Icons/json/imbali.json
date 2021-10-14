@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/anubians/imbali",
+    "bio_url": "https://degenesis.com/world/bio/anubians/imbali",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/barringer",
+            "image_name": "icons-anabaptists-barringer.jpg",
+            "name": "Barringer"
+        }
+    ],
+    "cult": "Anubians",
+    "culture": "Africa",
+    "image_name": "icons-anubians-imbali.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a07df5e025/icons-anubians-imbali.jpg",
+    "last_seen": "2597",
+    "name": "Imbali",
+    "rank": "Hecatean",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anubians/imbali",
+    "summary": "A Hecatean in Brest imparting her medical and scientific knowledge on the superstitious people of the land.",
+    "url_name": "imbali"
+}

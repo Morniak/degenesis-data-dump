@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/chroniclers/factor",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/factor",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/mirage",
+            "image_name": "icons-chroniclers-mirage.jpg",
+            "name": "Mirage"
+        },
+        {
+            "href": "/world/icons/apocalyptics/alabaster",
+            "image_name": "icons-apocalyptics-alabaster.jpg",
+            "name": "Alabaster"
+        },
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Franka",
+    "image_name": "icons-chroniclers-factor.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0ddb4f204c/icons-chroniclers-factor.jpg",
+    "last_seen": "2596",
+    "name": "Factor",
+    "rank": "Fuse",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/factor",
+    "summary": "A Fuse who supplied sanctioned weapons during Operation Mirage. Died during the onslaught in Toulon.",
+    "url_name": "factor"
+}

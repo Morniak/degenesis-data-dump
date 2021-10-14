@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Franka, Cremant",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/bascule",
+            "image_name": "icons-spitalians-bascule.jpg",
+            "name": "Bascule"
+        },
+        {
+            "href": "/world/icons/spitalians/vatenguerre",
+            "image_name": "icons-vatenguerre.jpg",
+            "name": "Vatenguerre"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/apocalyptics/sacrocant",
+            "image_name": "icons-sacrocant.jpg",
+            "name": "Sacrocant"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Franka",
+    "image_name": "icons-charcutier.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4dbc021ac6/icons-charcutier.jpg",
+    "last_seen": "2596",
+    "name": "Charcutier",
+    "rank": "Commando Prime",
+    "source": [
+        "The Killing Game,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/charcutier",
+    "summary": "Commando Prime of the Red Pack, an elite Preservist Corps, who operates a secret research laboratory in Cremant. One of the last followers of the Old School doctrine.",
+    "url_name": "charcutier"
+}

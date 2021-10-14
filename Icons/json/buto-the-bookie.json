@@ -1,0 +1,54 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        },
+        {
+            "href": "/world/icons/clanners/atama",
+            "image_name": "icons-clanners-atama.jpg",
+            "name": "Atama"
+        },
+        {
+            "href": "/world/icons/scrappers/aeshma",
+            "image_name": "icons-scrappers-aeshma.jpg",
+            "name": "Aeshma"
+        },
+        {
+            "href": "/world/icons/apocalyptics/lupo",
+            "image_name": "icons-apocalyptics-lupo.jpg",
+            "name": "Lupo"
+        },
+        {
+            "href": "/world/icons/anabaptists/markesh",
+            "image_name": "icons-anabaptists-markesh.jpg",
+            "name": "Markesh"
+        },
+        {
+            "href": "/world/icons/clanners/ferhat-the-abhorred",
+            "image_name": "icons-clanners-ferhat.jpg",
+            "name": "Ferhat, The Abhorred"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-buto.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/01b14e908c/icons-scrappers-buto.jpg",
+    "last_seen": "2598",
+    "name": "Buto, The Bookie",
+    "rank": "Officer",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/buto-the-bookie",
+    "summary": "Buto has spent decades at Bosch's side, supervising the Cartel's cash flow and ensuring that the massive Scrapper gang always stays afloat. His most prosperous line of business is the pit fights in Justitian, but he has his pudgy fingers deep in every possible source of revenue in the city.  ",
+    "url_name": "buto-the-bookie"
+}

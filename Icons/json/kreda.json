@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Balkhan",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/palers/vesna",
+            "image_name": "icons-palers-vesna.jpg",
+            "name": "Vesna"
+        },
+        {
+            "href": "/world/icons/palers/mishitchi",
+            "image_name": "icons-mishitchi.jpg",
+            "name": "Mishitchi"
+        },
+        {
+            "href": "/world/icons/chroniclers/corium",
+            "image_name": "icons-chroniclers-corium.jpg",
+            "name": "Corium"
+        }
+    ],
+    "cult": "Palers",
+    "culture": "Balkhan",
+    "image_name": "icons-palers-kyklops.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0964c82fa9/icons-palers-kyklops.jpg",
+    "last_seen": "2598",
+    "name": "Kreda",
+    "rank": "Cyclops",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/palers/kreda",
+    "summary": "The Cyclops of Vesna, the Demagogue in the Underground of Justitian, who has been leading attempts to hack into the Cluster's systems.",
+    "url_name": "kreda"
+}

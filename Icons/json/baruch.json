@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/jehammedans/baruch",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/baruch",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        },
+        {
+            "href": "/world/icons/jehammedans/gileabod-ruben-abraham",
+            "image_name": "icons-gilead-ruben-abraham.jpg",
+            "name": "Gileabod Ruben Abraham"
+        },
+        {
+            "href": "/world/icons/jehammedans/naraka",
+            "image_name": "icons-jehammedans-naraka.jpg",
+            "name": "Naraka"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Balkhan",
+    "image_name": "icons-jehammedans-baruch.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f39616aa58/icons-jehammedans-baruch.jpg",
+    "last_seen": "2598",
+    "name": "Baruch",
+    "rank": "Iconide",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/baruch",
+    "summary": "Baruch was once the core of the Jehammedan presence in Justitian, the foremost negotiator for the Cult and the representative in Uptown. After the slaughter of St. Gideon, and the brutal punishments that followed, he has fallen from grace - and fallen out of faith. ",
+    "url_name": "baruch"
+}

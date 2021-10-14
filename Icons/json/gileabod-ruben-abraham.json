@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Osman",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Borca",
+    "image_name": "icons-gilead-ruben-abraham.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6f09f0d77a/icons-gilead-ruben-abraham.jpg",
+    "last_seen": "2595",
+    "name": "Gileabod Ruben Abraham",
+    "rank": "Prophet",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/gileabod-ruben-abraham",
+    "summary": "The Prophet of the Jehammedans is the most powerful man to the east of the Reaper\u2019s Blow. He commands a formidable army and yearns for expansion and revenge on Justitian.",
+    "url_name": "gileabod-ruben-abraham"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/apocalyptics/hexell",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/hexell",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        },
+        {
+            "href": "/world/icons/apocalyptics/alabaster",
+            "image_name": "icons-apocalyptics-alabaster.jpg",
+            "name": "Alabaster"
+        },
+        {
+            "href": "/world/icons/hellvetics/baptiste",
+            "image_name": "icons-hellvetics-baptiste.jpg",
+            "name": "Baptiste"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-hexell.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3d27fa8dc3/icons-apocalyptics-hexell.jpg",
+    "last_seen": "2596",
+    "name": "Hexell",
+    "rank": "Owl",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/hexell",
+    "summary": "A mysterious sniper, and member of the Firebirds.",
+    "url_name": "hexell"
+}

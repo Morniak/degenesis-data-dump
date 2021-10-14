@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/scrappers/the-head-collector",
+            "image_name": "icons-scrappers-head-collector.jpg",
+            "name": "The Head Collector"
+        },
+        {
+            "href": "/world/icons/clanners/belmondo",
+            "image_name": "icons-clanners-belmondo.jpg",
+            "name": "Belmondo"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-utrecht.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c294f3cc39/icons-judges-utrecht.jpg",
+    "last_seen": "2598",
+    "name": "Utrecht",
+    "rank": "Protector",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/utrecht",
+    "summary": "Rutgar's most skilled incognito Judge, a master of blending in with common society. He acts as the Old Wolf's eyes and ears in Downtown, keeping his finger on the pulse of the people. ",
+    "url_name": "utrecht"
+}

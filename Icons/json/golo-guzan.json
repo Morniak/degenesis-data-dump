@@ -1,0 +1,28 @@
+{
+    "area_of_operations": "Borca, Siege",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/hakkal",
+            "image_name": "icons-jehammedans-hakkal.jpg",
+            "name": "Hakkal"
+        },
+        {
+            "href": "/world/icons/judges/murdoch",
+            "image_name": "icons-judges-murdoch.jpg",
+            "name": "Murdoch"
+        }
+    ],
+    "cult": "Clanners",
+    "image_name": "icons-clanners-golo-guzan.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2480x2480/ee1f8d62a1/icons-clanners-golo-guzan.jpg",
+    "last_seen": "2598",
+    "name": "Golo Guzan",
+    "rank": "Sphingid Warrior",
+    "source": [
+        "Last Watch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/golo-guzan",
+    "summary": "He has identified a weakspot in the Protectorate\u2019s defenses, and taking it would grant him the greatest prize. Defeat, on the other hand...",
+    "url_name": "golo-guzan"
+}

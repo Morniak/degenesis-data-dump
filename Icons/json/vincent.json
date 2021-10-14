@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Bassham",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/amos",
+            "image_name": "anabaptists.png",
+            "name": "Amos"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "icons-anabaptists-vincent.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0230191c9e/icons-anabaptists-vincent.jpg",
+    "last_seen": "2595",
+    "name": "Vincent",
+    "rank": "Counselor",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/vincent",
+    "summary": "Counselor and ruler of Bassham. Fought in the battle against the Pheromancer King Markurant.",
+    "url_name": "vincent"
+}

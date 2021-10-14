@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bumblebee",
+            "image_name": "icons-scrappers-bumblebee.jpg",
+            "name": "Bumblebee"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-king-cockroach.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/e906070d55/icons-scrappers-king-cockroach.jpg",
+    "last_seen": "2598",
+    "name": "King Cockroach",
+    "rank": "Badger",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/king-cockroach",
+    "summary": "The unluckiest bastard in Justitian, King Cockroach has tried his hand at every venture imaginable in the hopes of finding his big break. They all failed. He ekes out a living with dirty work, hoping that some day he'll get the recognition he deserves. ",
+    "url_name": "king-cockroach"
+}

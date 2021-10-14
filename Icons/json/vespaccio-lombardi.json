@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Purgare, Bergamo",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/gala-lombardi",
+            "image_name": "icons-clanners-gala-lombardi.jpg",
+            "name": "Gala Lombardi"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-vespaccio-lombardi.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1570cb6b76/icons-clanners-vespaccio-lombardi.jpg",
+    "last_seen": "2595",
+    "name": "Vespaccio Lombardi",
+    "rank": "Lombardi",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/vespaccio-lombardi",
+    "summary": "Governor of the city of Bergamo and leader of Clan Lombardi. Also called the White Wolf of Bergamo.",
+    "url_name": "vespaccio-lombardi"
+}

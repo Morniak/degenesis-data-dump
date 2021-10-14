@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/black-mary",
+            "image_name": "icons-judges-black-mary.jpg",
+            "name": "Black Mary"
+        },
+        {
+            "href": "/world/icons/clanners/ardon",
+            "image_name": "icons-clanners-ardon.jpg",
+            "name": "Ardon"
+        },
+        {
+            "href": "/world/icons/spitalians/oswald-kezsler",
+            "image_name": "icons-spitalians-kezsler.jpg",
+            "name": "Oswald Keszler"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Hybrispania",
+    "image_name": "icons-spitalians-elias-ramon.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a2ada2e4c0/icons-spitalians-elias-ramon.jpg",
+    "last_seen": "2598",
+    "name": "Elias Ramon",
+    "rank": "Village Doctor",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/elias-ramon",
+    "summary": "The embodiment of selfless virtue, Ramon has broken from his Cult's official stance to offer free aid to the citizens of Justitian, and now works as a Village Doctor in the Bottomlands. ",
+    "url_name": "elias-ramon"
+}

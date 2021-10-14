@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Mont Saint-Michel",
+    "bio_href": "/world/bio/anabaptists/vicarent",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/vicarent",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/barringer",
+            "image_name": "icons-anabaptists-barringer.jpg",
+            "name": "Barringer"
+        },
+        {
+            "href": "/world/icons/clanners/oppolus",
+            "image_name": "icons-clanners-oppolus.jpg",
+            "name": "Oppolus"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "icons-anabaptists-vicarent.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/10e04116a3/icons-anabaptists-vicarent.jpg",
+    "last_seen": "2597",
+    "name": "Vicarent",
+    "rank": "Sublime",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/vicarent",
+    "summary": "A Sublime who struck down the Pheromancer King Ganaress with a single blow. Leader of the Anabaptists in Briton.",
+    "url_name": "vicarent"
+}

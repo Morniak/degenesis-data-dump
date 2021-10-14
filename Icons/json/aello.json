@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/laika-the-bitch",
+            "image_name": "icons-judges-laika.jpg",
+            "name": "Laika, the Bitch"
+        },
+        {
+            "href": "/world/icons/anabaptists/markesh",
+            "image_name": "icons-anabaptists-markesh.jpg",
+            "name": "Markesh"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-aello.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5aa808aafa/icons-chroniclers-aello.jpg",
+    "last_seen": "2598",
+    "name": "Aello",
+    "rank": "Shutter",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/aello",
+    "summary": "The Cartel has become a debilitating thorn in the Cluster's side, and the Chroniclers need to take back control. Aello has been tasked with infiltrating the Scrapper organisation and finding its weaknesses. It's a dangerous game, and one that many have failed to return from. ",
+    "url_name": "aello"
+}

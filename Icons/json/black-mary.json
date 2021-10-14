@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/black-mary",
+    "bio_url": "https://degenesis.com/world/bio/judges/black-mary",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/iwanov",
+            "image_name": "0044-ivanow-final.jpg",
+            "name": "Iwanov"
+        },
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/spitalians/elias-ramon",
+            "image_name": "icons-spitalians-elias-ramon.jpg",
+            "name": "Elias Ramon"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-black-mary.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/93137e1b0b/icons-judges-black-mary.jpg",
+    "last_seen": "2598",
+    "name": "Black Mary",
+    "rank": "Black Judge",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/black-mary",
+    "summary": "In a past life, Mary was the ringleader of a secret splinter group preparing for a revolution against the oppressive bureaucracy of the modern Judiciary. Her rebellion was crushed before it even began, but Rutgar saw potential in the woman. Now, she has become one of the Old Wolf's most zealous operatives. ",
+    "url_name": "black-mary"
+}

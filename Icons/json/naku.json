@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Africa, Cairo",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/petrova",
+            "image_name": "icons-petrova.jpg",
+            "name": "Petrova"
+        }
+    ],
+    "cult": "Anubians",
+    "culture": "Africa",
+    "image_name": "icons-anubians-naku.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/8ccc4a1e2d/icons-anubians-naku.jpg",
+    "last_seen": "2595",
+    "name": "Naku",
+    "rank": "Ka",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anubians/naku",
+    "summary": "Incarnation of the Ka. Biding his time waiting for the end of the cycle and the fulfilment of the Jackal\u2019s Prophecy.",
+    "url_name": "naku"
+}

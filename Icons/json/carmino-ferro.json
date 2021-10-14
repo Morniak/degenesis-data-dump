@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Purgare, Vivaco",
+    "bio_href": "/world/bio/spitalians/carmino-ferro",
+    "bio_url": "https://degenesis.com/world/bio/spitalians/carmino-ferro",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Purgare",
+    "image_name": "icons-spitaians-carmino-ferro.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4c8266b342/icons-spitaians-carmino-ferro.jpg",
+    "last_seen": "2595",
+    "name": "Carmino Ferro",
+    "rank": "Surgeon",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/carmino-ferro",
+    "summary": "Head Surgeon of Vivaco and personal doctor of the Baptist Altair. Died in Lucatore.",
+    "url_name": "carmino-ferro"
+}

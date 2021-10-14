@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vadim",
+            "image_name": "icons-apocalyptics-vadim.jpg",
+            "name": "Vadim"
+        },
+        {
+            "href": "/world/icons/clanners/atama",
+            "image_name": "icons-clanners-atama.jpg",
+            "name": "Atama"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-darwin.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7e58035ad8/icons-apocalyptics-darwin.jpg",
+    "last_seen": "2598",
+    "name": "Darwin",
+    "rank": "Vulture",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/darwin",
+    "summary": "A masterful poisoner and cunning Vulture, Darwin's cruelty was the key to the Dust Riders' scheme to secure the Flotsam and snatch it from the hands of the Carrion Birds. He is the Flock's final solution, and extinction follows in his footsteps. ",
+    "url_name": "darwin"
+}

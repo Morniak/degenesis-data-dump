@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/wortmann-the-heathen",
+            "image_name": "icons-judges-wortmann.jpg",
+            "name": "Wortmann, The Heathen"
+        },
+        {
+            "href": "/world/icons/spitalians/elias-ramon",
+            "image_name": "icons-spitalians-elias-ramon.jpg",
+            "name": "Elias Ramon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-ardon.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/583b3efb45/icons-clanners-ardon.jpg",
+    "last_seen": "2598",
+    "name": "Ardon",
+    "rank": "Founder",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/ardon",
+    "summary": "The leader of the Collective, a conglomerate of Provider families joined as a union against the might of the Judiciary, fighting for better rights for those who feed the mighty Justitian. ",
+    "url_name": "ardon"
+}

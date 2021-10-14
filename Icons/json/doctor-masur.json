@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/levantis",
+            "image_name": "icons-judges-levantis.jpg",
+            "name": "Levantis"
+        },
+        {
+            "href": "/world/icons/spitalians/vasco",
+            "image_name": "icons-spitalians-nikolai-vasco.jpg",
+            "name": "Vasco"
+        },
+        {
+            "href": "/world/icons/spitalians/oswald-kezsler",
+            "image_name": "icons-spitalians-kezsler.jpg",
+            "name": "Oswald Keszler"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-doctor-masur.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fcc5e96228/icons-spitalians-doctor-masur.jpg",
+    "last_seen": "2598",
+    "name": "Doctor Masur",
+    "rank": "Village Doctor",
+    "source": [
+        "Justitan: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/doctor-masur",
+    "summary": "A Spitalian who deserted his post at Danzig in pursuit of the mystery of the Wretched Hag, and works out of sight of his Cult performing autopsies for the Judges. ",
+    "url_name": "doctor-masur"
+}

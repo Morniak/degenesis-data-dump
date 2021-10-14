@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/clanners/soufiane",
+    "bio_url": "https://degenesis.com/world/bio/clanners/soufiane",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/sleepers/helios",
+            "image_name": "icons-sleepers-helios.jpg",
+            "name": "Helios"
+        },
+        {
+            "href": "/world/icons/chroniclers/ampere",
+            "image_name": "icons-chroniclers-ampere.jpg",
+            "name": "Ampere"
+        },
+        {
+            "href": "/world/icons/scrappers/parel",
+            "image_name": "icons-scrappers-parel.jpg",
+            "name": "Parel"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Africa",
+    "image_name": "icons-clanners-soufiane.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9e7ad3320b/icons-clanners-soufiane.jpg",
+    "last_seen": "2596",
+    "name": "Soufiane",
+    "rank": "Leopard",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/soufiane",
+    "summary": "The Leopard left his life behind, abandoning Africa in favour of prosperity in Franka. Now, he seeks to make his riches delving into the Vulture\u2019s land.",
+    "url_name": "soufiane"
+}

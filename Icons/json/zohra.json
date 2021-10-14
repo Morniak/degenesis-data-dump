@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/neolibyans/zohra",
+    "bio_url": "https://degenesis.com/world/bio/neolibyans/zohra",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        },
+        {
+            "href": "/world/icons/scrappers/deich",
+            "image_name": "icons-scrappers-deich.jpg",
+            "name": "Deich"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-zohra.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/70abd92925/icons-neolibyans-zohra.jpg",
+    "last_seen": "2596",
+    "name": "Zohra",
+    "rank": "Consul",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/zohra",
+    "summary": "Consul of Toulon, Hamza\u2019s half-sister, and skilled diplomat. Devoted to uncovering the Cartel\u2019s connection with Operation Mirage.",
+    "url_name": "zohra"
+}

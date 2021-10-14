@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/anabaptists/Abacus",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/Abacus",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/anabaptists/neva",
+            "image_name": "icons-anabaptists-neva.jpg",
+            "name": "Neva"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "icons-anabaptists-abacus.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6f8aa8054d/icons-anabaptists-abacus.jpg",
+    "last_seen": "2595",
+    "name": "Abacus",
+    "rank": "Elysian",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/abacus",
+    "summary": "Genius who created the Elysian oils of Lucatore, but fell prey to the Burn in his concoctions and became a Leperos.",
+    "url_name": "abacus"
+}

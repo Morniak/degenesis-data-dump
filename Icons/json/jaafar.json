@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Hybrispania, C\u00f3rdoba",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/ayana",
+            "image_name": "icons-clanners-ayana.jpg",
+            "name": "Ayana"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "neolibyans.png",
+    "image_url": "https://img2.storyblok.com/500x0/filters:quality(90)/f/72501/500x500/4eb27d48ee/neolibyans.png",
+    "last_seen": "2595",
+    "name": "Jaafar",
+    "rank": "Consul",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/jaafar",
+    "summary": "The cruel Consul of C\u00f3rdoba. Used to own a slave called Ayana before she fled and became La Campeadora.",
+    "url_name": "jaafar"
+}

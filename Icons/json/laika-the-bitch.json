@@ -1,0 +1,46 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/laika",
+    "bio_url": "https://degenesis.com/world/bio/judges/laika",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/chroniclers/aello",
+            "image_name": "icons-chroniclers-aello.jpg",
+            "name": "Aello"
+        },
+        {
+            "href": "/world/icons/anabaptists/markesh",
+            "image_name": "icons-anabaptists-markesh.jpg",
+            "name": "Markesh"
+        },
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-laika.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/13484a1e62/icons-judges-laika.jpg",
+    "last_seen": "2595",
+    "name": "Laika, the Bitch",
+    "rank": "High Judge",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/laika-the-bitch",
+    "summary": "The High Judge in command of The Pack, a squad of heavily armed Anabaptists. A polarizing figure, and the only Protector willing to get her hands dirty in the depths of Tech-Central.",
+    "url_name": "laika-the-bitch"
+}

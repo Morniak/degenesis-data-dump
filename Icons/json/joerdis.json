@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/scrappers/hostin",
+            "image_name": "icons-scrappers-hostin.jpg",
+            "name": "Hostin"
+        },
+        {
+            "href": "/world/icons/neolibyans/the-african",
+            "image_name": "icons-neolibyans-the-african.jpg",
+            "name": "The African"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-joerdis.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/45e323aad6/icons-scrappers-joerdis.jpg",
+    "last_seen": "2598",
+    "name": "Joerdis",
+    "rank": "Alpha Wolf",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/joerdis",
+    "summary": "The guardian angel of the orphans of Justitian, her orphanage in the Outskirts is widely recognized as one of the few merciful locations in the brutal city. After helping Estrelle Arnot give birth, she has been helping the wayward Judge search for her kidnapped son. ",
+    "url_name": "joerdis"
+}

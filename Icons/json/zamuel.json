@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/anabaptists/zamuel",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/zamuel",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/uriah",
+            "image_name": "icons-anabaptists-uriah.jpg",
+            "name": "Uriah"
+        },
+        {
+            "href": "/world/icons/clanners/the-piast",
+            "image_name": "icons-clanners-the-piast.jpg",
+            "name": "The Piast"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Borca",
+    "image_name": "icons-anabaptists-zamuel.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a6bdd5413b/icons-anabaptists-zamuel.jpg",
+    "last_seen": "2598",
+    "name": "Zamuel",
+    "rank": "Emissary",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/zamuel",
+    "summary": "Zamuel looks back on a glorious life, full of knowledge and experiences. He has seen incredible things, met iconic figures, and has had his future read by the Mother of Ravens herself. However, in his old age, both his mind and body have crumbled to dust, and he looks out from hazy eyes at a world that has passed him by. ",
+    "url_name": "zamuel"
+}

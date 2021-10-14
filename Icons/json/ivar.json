@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/apocalyptics/ivar",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/ivar",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/meridian",
+            "image_name": "icons-apocalyptics-meridian.jpg",
+            "name": "Meridian"
+        },
+        {
+            "href": "/world/icons/hellvetics/baptiste",
+            "image_name": "icons-hellvetics-baptiste.jpg",
+            "name": "Baptiste"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-apocalyptics-ivar.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3e7e50cb24/icons-apocalyptics-ivar.jpg",
+    "last_seen": "2596",
+    "name": "Ivar",
+    "rank": "Woodpecker",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/ivar",
+    "summary": "The Woodpecker was tasked with setting up a new nest for the Black Flock in Toulon, but he was captured by the Firebirds and disfigured during his torture at the hands of Baptiste.",
+    "url_name": "ivar"
+}

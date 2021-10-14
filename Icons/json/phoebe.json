@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/phoebe",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/phoebe",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/ezra",
+            "image_name": "icons-apocalyptics-ezra.jpg",
+            "name": "Ezra"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-phoebe.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/280db1b377/icons-apocalyptics-phoebe.jpg",
+    "last_seen": "2598",
+    "name": "Phoebe",
+    "rank": "Magpie",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/phoebe",
+    "summary": "The Splinter Hawks were once poised to reach great heights, using their unique and almost detectable Burn derivative, but a brutal plot by the Judges destroyed them. Pheobe was one of the few survivors, and has returned to Justitian to return her Flock to its old splendor. ",
+    "url_name": "phoebe"
+}

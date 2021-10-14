@@ -1,0 +1,60 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/mother-of-ravens",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/mother-of-ravens",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        },
+        {
+            "href": "/world/icons/apocalyptics/joshua-the-butcher",
+            "image_name": "icons-apocalyptics-joshua.jpg",
+            "name": "Joshua, The Butcher"
+        },
+        {
+            "href": "/world/icons/apocalyptics/jade",
+            "image_name": "icons-apocalyptics-jade.jpg",
+            "name": "Jade"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        },
+        {
+            "href": "/world/icons/anabaptists/zamuel",
+            "image_name": "icons-anabaptists-zamuel.jpg",
+            "name": "Zamuel"
+        },
+        {
+            "href": "/world/icons/anabaptists/amos",
+            "image_name": "anabaptists.png",
+            "name": "Amos"
+        },
+        {
+            "href": "/world/icons/scrappers/the-head-collector",
+            "image_name": "icons-scrappers-head-collector.jpg",
+            "name": "The Head Collector"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "image_name": "icons-mother-of-ravens.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/dc9ca72a90/icons-mother-of-ravens.jpg",
+    "last_seen": "2598",
+    "name": "Mother of Ravens",
+    "rank": "Founder",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/mother-of-ravens",
+    "summary": "The mystical founder of the Apocalyptics, and leader of the Carrion Birds Flock. She resides beneath Justitian, and is supposedly hundreds of years old. ",
+    "url_name": "mother-of-ravens"
+}

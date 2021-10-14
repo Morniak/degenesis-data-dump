@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/danka",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/danka",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        },
+        {
+            "href": "/world/icons/apocalyptics/ivy",
+            "image_name": "icons-apocalyptics-ivy.jpg",
+            "name": "Ivy"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-danka.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1b53c5e006/icons-apocalyptics-danka.jpg",
+    "last_seen": "2598",
+    "name": "Danka",
+    "rank": "Battle Crow",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/danka",
+    "summary": "One of the few survivors of the East Wind Flock, which was destroyed during the Great Cleanse. She has been stifled by the oppressive hierarchy of the Carrion Birds, and is desperate to escape from this city - after she takes revenge on the ones who brought down her brothers and sisters. ",
+    "url_name": "danka"
+}

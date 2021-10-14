@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/scrappers/orma",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/orma",
+    "concept": "The Adventurer",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Africa",
+    "image_name": "icons-scrappers-orma.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b670fa984a/icons-scrappers-orma.jpg",
+    "last_seen": "2596",
+    "name": "Orma",
+    "rank": "Alpha Wolf",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/orma",
+    "summary": "Hamza\u2019s best Scrapper and scout. He has led countless expedition into the Rh\u00f4ne swamps unscathed and is responsible for the success of the Neolibyans in Toulon.",
+    "url_name": "orma"
+}

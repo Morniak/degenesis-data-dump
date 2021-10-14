@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Righteous",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/judges/laakon",
+            "image_name": "0031-laakon-final.jpg",
+            "name": "Laakon"
+        },
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        },
+        {
+            "href": "/world/icons/scrappers/bumblebee",
+            "image_name": "icons-scrappers-bumblebee.jpg",
+            "name": "Bumblebee"
+        },
+        {
+            "href": "/world/icons/clanners/sprenger",
+            "image_name": "icons-clanners-sprenger.jpg",
+            "name": "Sprenger"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-archot-2.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6f46ab9020/icons-judges-archot-2.jpg",
+    "last_seen": "2595",
+    "name": "Archot",
+    "rank": "Supreme Judge",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/archot",
+    "summary": "Supreme Judge and the ruler of Justitian. His subjects whisper that he is delusional and out of touch. His megalomaniacal projects occupy the last shreds of his sanity.",
+    "url_name": "archot"
+}

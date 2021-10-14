@@ -1,0 +1,51 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/tolomei",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/tolomei",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vadim",
+            "image_name": "icons-apocalyptics-vadim.jpg",
+            "name": "Vadim"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/apocalyptics/darwin",
+            "image_name": "icons-apocalyptics-darwin.jpg",
+            "name": "Darwin"
+        },
+        {
+            "href": "/world/icons/scourgers/mbeke",
+            "image_name": "icons-mbeke.jpg",
+            "name": "Mbeke"
+        },
+        {
+            "href": "/world/icons/jehammedans/fatim-the-barber",
+            "image_name": "icons-jehammedans-fatim.jpg",
+            "name": "Fatim, The Barber"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-tolomei.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/65dba7906b/icons-apocalyptics-tolomei.jpg",
+    "last_seen": "2598",
+    "name": "Tolomei",
+    "rank": "Pelican",
+    "source": [
+        "Justitan: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/tolomei",
+    "summary": "Tolomei is the Pelican of the Dust Riders, and the official face of the Flotsam's new leadership. He juggles the powers of Uptown and Justitian's underworld, diverting attention and building alliances, steadily building his Flock's influence in their new hunting ground. ",
+    "url_name": "tolomei"
+}

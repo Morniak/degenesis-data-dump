@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Protectorate",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-case.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2002/d864456992/icons-case.jpg",
+    "last_seen": "2595",
+    "name": "Case",
+    "rank": "Fuse",
+    "source": [
+        "Katharsys"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/case",
+    "summary": "Case is one of the many Fuses carrying out the orders of the enigmatic Scalar Nullify.",
+    "url_name": "case"
+}

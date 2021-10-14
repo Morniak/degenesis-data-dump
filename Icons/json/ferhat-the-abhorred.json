@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        },
+        {
+            "href": "/world/icons/clanners/heza-gotokai",
+            "image_name": "icons-clanners-heza-gotokai.jpg",
+            "name": "Heza Gotokai"
+        },
+        {
+            "href": "/world/icons/clanners/danislai-ogota",
+            "image_name": "icons-clanners-danislai-ogota.jpg",
+            "name": "Danislai Ogota"
+        },
+        {
+            "href": "/world/icons/clanners/khaleb-ogota",
+            "image_name": "icons-clanners-khaleb-ogota.jpg",
+            "name": "Khaleb Ogota"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-ferhat.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ab039d45d7/icons-clanners-ferhat.jpg",
+    "last_seen": "2598",
+    "name": "Ferhat, The Abhorred",
+    "rank": "Pariah",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/ferhat-the-abhorred",
+    "summary": "A former Steel Master who was exiled and had his vocal chords cut after he was discovered torturing and abusing his wife. Since then, he has become a contract killer for Bosch, with unparalleled effectiveness and efficiency. ",
+    "url_name": "ferhat-the-abhorred"
+}

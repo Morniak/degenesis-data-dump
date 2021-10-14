@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/chroniclers/impulse",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/impulse",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/iridium",
+            "image_name": "icons-chroniclers-iridium.jpg",
+            "name": "Iridium"
+        },
+        {
+            "href": "/world/icons/chroniclers/eject",
+            "image_name": "icons-chroniclers-eject.jpg",
+            "name": "Eject"
+        },
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Balkhan",
+    "image_name": "icons-chronicelrs-impulse.jpg",
+    "image_url": "https://img2.storyblok.com/747x0/filters:quality(90)/f/72501/747x747/5a1dc75dd9/icons-chronicelrs-impulse.jpg",
+    "last_seen": "2595",
+    "name": "Impulse",
+    "rank": "Fragment",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/impulse",
+    "summary": "A leading Fragment of the Central Cluster in Justitian, and the one who caused the Needle Tower Disaster in an attempt to destroy his opposition. He has initiated several secret operations against the Neolybians, and is under the control of the Marauder Triglaw.",
+    "url_name": "impulse"
+}

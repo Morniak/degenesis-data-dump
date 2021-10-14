@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/laika-the-bitch",
+            "image_name": "icons-judges-laika.jpg",
+            "name": "Laika, the Bitch"
+        },
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "icons-anabaptists-markesh.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fd96bb1625/icons-anabaptists-markesh.jpg",
+    "last_seen": "2598",
+    "name": "Markesh",
+    "rank": "Orgiastic",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/markesh",
+    "summary": "A member of Laika's Pack, one of twelve Anabaptists working for the High Judge to bring some semblance of order to Tech-Central. ",
+    "url_name": "markesh"
+}

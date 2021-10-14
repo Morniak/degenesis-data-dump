@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/joerdis",
+            "image_name": "icons-scrappers-joerdis.jpg",
+            "name": "Joerdis"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Franka",
+    "image_name": "icons-judges-estrelle.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/cd51e7e8c5/icons-judges-estrelle.jpg",
+    "last_seen": "2598",
+    "name": "Estrelle Arnot",
+    "rank": "City Judge",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/estrelle-arnot",
+    "summary": "After a terrifying incident on the outskirts of Bassham, Estrelle returned to Justitian bearing an otherwordly child. With the help of Joerdis, the Orphan Mother, she gives birth - but moments later, her child is ripped from her grasp by a monster. Now, she hunts for her son in the Defiler Streets, night after night.",
+    "url_name": "estrelle-arnot"
+}

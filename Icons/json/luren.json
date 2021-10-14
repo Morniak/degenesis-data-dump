@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-luren.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/8e6c757566/icons-clanners-luren.jpg",
+    "last_seen": "2595",
+    "name": "Luren",
+    "rank": "Pneumancer",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/luren",
+    "summary": "The Herald of the Pneumancer Clan, sent to Justitian in 2595 to negotiate his people's integration into the Protectorate. Since then, he has been strung along by Archot and distracted by the vices of the city - he spends his nights sleeping through every brothel in Downtown.",
+    "url_name": "luren"
+}

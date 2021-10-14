@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        },
+        {
+            "href": "/world/icons/scrappers/joerdis",
+            "image_name": "icons-scrappers-joerdis.jpg",
+            "name": "Joerdis"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-the-african.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/e63098f24d/icons-neolibyans-the-african.jpg",
+    "last_seen": "2598",
+    "name": "The African",
+    "rank": "Merchant",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/the-african",
+    "summary": "An African businessman with limitless ambition who has established a booming business in Justitian by undercutting the prices of his competition. His goods may not be the best quality, but they're cheap, and that's reason enough for any Borcan to fork over their Drafts. ",
+    "url_name": "the-african"
+}

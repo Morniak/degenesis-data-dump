@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/neolibyans/Hamza",
+    "bio_url": "https://degenesis.com/world/bio/neolibyans/Hamza",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/anubians/nephraim",
+            "image_name": "icons-anubians-nephraim.jpg",
+            "name": "Nephraim"
+        },
+        {
+            "href": "/world/icons/neolibyans/zohra",
+            "image_name": "icons-neolibyans-zohra.jpg",
+            "name": "Zohra"
+        },
+        {
+            "href": "/world/icons/scrappers/orma",
+            "image_name": "icons-scrappers-orma.jpg",
+            "name": "Orma"
+        },
+        {
+            "href": "/world/icons/scourgers/ayubu",
+            "image_name": "icons-scourgers-ayubu.jpg",
+            "name": "Ayubu"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-hamza.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1cdd8e758a/icons-neolibyans-hamza.jpg",
+    "last_seen": "2596",
+    "name": "Hamza",
+    "rank": "Raider",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/hamza",
+    "summary": "Famous Raider and the owner of the concession for Toulon. He was the main target during Operation Mirage and the siege of Toulon.",
+    "url_name": "hamza"
+}

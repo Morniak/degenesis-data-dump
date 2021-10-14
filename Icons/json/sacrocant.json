@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Bayonne",
+    "bio_href": "/world/bio/apocalyptics/sacrocant",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/sacrocant",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/charcutier",
+            "image_name": "icons-charcutier.jpg",
+            "name": "Charcutier"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-sacrocant.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d22b457f91/icons-sacrocant.jpg",
+    "last_seen": "2596",
+    "name": "Sacrocant",
+    "rank": "Raven",
+    "source": [
+        "Rising Ravens,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/sacrocant",
+    "summary": "The Raven and undisputed ruler of Bayonne. He has converted a bogged down Surge Tank in the Rh\u00f4ne swamps into his Flock\u2019s nest.",
+    "url_name": "sacrocant"
+}

@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        },
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-lupo.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/352e3b692d/icons-apocalyptics-lupo.jpg",
+    "last_seen": "2598",
+    "name": "Lupo",
+    "rank": "Battle Crow",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/lupo",
+    "summary": "A ruthless and savage pit fighter, who is unpredictable in the ring. However, a drug that was supposed to increase his muscle mass has instead left him impotent, and his wounded ego has driven him to an even higher level of brutality and rage. ",
+    "url_name": "lupo"
+}

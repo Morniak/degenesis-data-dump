@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Liqua",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/sleepers/helios",
+            "image_name": "icons-sleepers-helios.jpg",
+            "name": "Helios"
+        },
+        {
+            "href": "/world/icons/scrappers/the-head-collector",
+            "image_name": "icons-scrappers-head-collector.jpg",
+            "name": "The Head Collector"
+        }
+    ],
+    "cult": "Cults",
+    "from_hell": "Recombination Group",
+    "image_name": "icons-sleepers-trice.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ddfc779e2c/icons-sleepers-trice.jpg",
+    "last_seen": "2598",
+    "name": "Trice",
+    "rank": "Cascade 300",
+    "source": [
+        "Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/sleepers/trice",
+    "summary": "A Sleeper Prophet who operates in the Protectorate to undermine Gusev\u2019s machinations, drifting through society in a beggar\u2019s guise.",
+    "url_name": "trice"
+}

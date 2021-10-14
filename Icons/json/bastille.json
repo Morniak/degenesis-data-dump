@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/gustav-bloch",
+            "image_name": "icons-hellvetics-gustav-bloch.jpg",
+            "name": "Gustav Bloch"
+        },
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/scourgers/mbeke",
+            "image_name": "icons-mbeke.jpg",
+            "name": "Mbeke"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Franka",
+    "image_name": "icons-hellvetics-bastille.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/91c07ea4ed/icons-hellvetics-bastille.jpg",
+    "last_seen": "2598",
+    "name": "Bastille",
+    "rank": "Sentinel",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/bastille",
+    "summary": "A Hellvetic Sentinel who was drawn in by the dark vices provided by the Apocalyptics, he has found some degree of companionship in Justitian's Flotsam, among the Dust Riders Flock. ",
+    "url_name": "bastille"
+}

@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Pollen, Danzig",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/anubians/naku",
+            "image_name": "icons-anubians-naku.jpg",
+            "name": "Naku"
+        },
+        {
+            "href": "/world/icons/spitalians/vasco",
+            "image_name": "icons-spitalians-nikolai-vasco.jpg",
+            "name": "Vasco"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Pollen",
+    "image_name": "icons-petrova.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/cbd5ba8cc6/icons-petrova.jpg",
+    "last_seen": "2595",
+    "name": "Petrova",
+    "rank": "Consultant",
+    "source": [
+        "Primal Punk, "
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/petrova",
+    "summary": "A Spitalian Consultant and the leader of the HIVE Research Group.",
+    "url_name": "petrova"
+}

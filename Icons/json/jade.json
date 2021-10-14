@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/jade",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/jade",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        },
+        {
+            "href": "/world/icons/apocalyptics/joshua-the-butcher",
+            "image_name": "icons-apocalyptics-joshua.jpg",
+            "name": "Joshua, The Butcher"
+        },
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/apocalyptics/ivy",
+            "image_name": "icons-apocalyptics-ivy.jpg",
+            "name": "Ivy"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-jade.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/8fbf364784/icons-apocalyptics-jade.jpg",
+    "last_seen": "2598",
+    "name": "Jade",
+    "rank": "Cuckoo",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/jade",
+    "summary": "The Carrion Birds' most capable spy, Jade has been altered and improved countless times by Joshua until she can barely be called human anymore. Only her mission keeps her sanity intact, as her self-perception fractures more and more with every new face. ",
+    "url_name": "jade"
+}

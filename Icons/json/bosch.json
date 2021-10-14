@@ -1,0 +1,86 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/bosch",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/bosch",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/deich",
+            "image_name": "icons-scrappers-deich.jpg",
+            "name": "Deich"
+        },
+        {
+            "href": "/world/icons/scrappers/nestor",
+            "image_name": "icons-scrappers-nestor.jpg",
+            "name": "Nestor"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        },
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/judges/emiel-salvano",
+            "image_name": "icons-judges-emiel-salvano.jpg",
+            "name": "Emiel Salvano"
+        },
+        {
+            "href": "/world/icons/clanners/ferhat-the-abhorred",
+            "image_name": "icons-clanners-ferhat.jpg",
+            "name": "Ferhat, The Abhorred"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/scrappers/argen",
+            "image_name": "icons-scrappers-argen.jpg",
+            "name": "Argen"
+        },
+        {
+            "href": "/world/icons/scrappers/aeshma",
+            "image_name": "icons-scrappers-aeshma.jpg",
+            "name": "Aeshma"
+        },
+        {
+            "href": "/world/icons/scrappers/bumblebee",
+            "image_name": "icons-scrappers-bumblebee.jpg",
+            "name": "Bumblebee"
+        },
+        {
+            "href": "/world/icons/scrappers/joerdis",
+            "image_name": "icons-scrappers-joerdis.jpg",
+            "name": "Joerdis"
+        },
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/judges/laika-the-bitch",
+            "image_name": "icons-judges-laika.jpg",
+            "name": "Laika, the Bitch"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-bosch.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/51f646cd4a/icons-scrappers-bosch.jpg",
+    "last_seen": "2598",
+    "name": "Bosch",
+    "rank": "Cartel Leader",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/bosch",
+    "summary": "Mastermind of the Cartel, the biggest Scrapper crime organization. The dwarf Bosch is one of the political movers and shakers of the city of Justitian, and nothing can satisfy his greed.",
+    "url_name": "bosch"
+}

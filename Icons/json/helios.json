@@ -1,0 +1,25 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/sleepers/helios",
+    "bio_url": "https://degenesis.com/world/bio/sleepers/helios",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/palers/arnika",
+            "image_name": "icons-palers-arnika.jpg",
+            "name": "Arnika"
+        }
+    ],
+    "cult": "Cults",
+    "from_hell": "Recombination Group",
+    "image_name": "icons-sleepers-helios.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/faa13cdf5f/icons-sleepers-helios.jpg",
+    "last_seen": "2597",
+    "name": "Helios",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/sleepers/helios",
+    "summary": "A Sleeper Prophet who escaped the chains Argyre put on him to search for the components of Jehammed\u2019s Will.",
+    "url_name": "helios"
+}

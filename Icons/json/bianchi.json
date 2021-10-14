@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Balkhan, Territorial Region IV",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/verhoest",
+            "image_name": "icons-hellvetics-verhoest.jpg",
+            "name": "Verhoest"
+        },
+        {
+            "href": "/world/icons/hellvetics/montovan",
+            "image_name": "icons-hellvetics-montovan.jpg",
+            "name": "Montovan"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Purgare",
+    "image_name": "icons-bianchi.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1bca7073ea/icons-bianchi.jpg",
+    "last_seen": "2595",
+    "name": "Bianchi",
+    "rank": "Corps Commander",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/bianchi",
+    "summary": "The Corps Commander of Territorial Region IV. He oversees all Hellvetic forces and operations in the Balkhan Alps.",
+    "url_name": "bianchi"
+}

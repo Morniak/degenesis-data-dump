@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/ampere",
+            "image_name": "icons-chroniclers-ampere.jpg",
+            "name": "Ampere"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-deselect.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7c2df73f84/icons-chroniclers-deselect.jpg",
+    "last_seen": "2598",
+    "name": "Deselect",
+    "rank": "Streamer",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/deslect",
+    "summary": "The Chronicler in charge of running the Alcove in Justitian\u2019s Forecourt, the busiest one in Europe. He has a keen eye for valuable artifacts, and has attracted the attention of the Palers of Justitian who thirst for his knowledge.",
+    "url_name": "deslect"
+}

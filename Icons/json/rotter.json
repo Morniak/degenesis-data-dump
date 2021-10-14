@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/dushani/eidolon",
+            "image_name": "icons-dushani-eidolon.jpg",
+            "name": "Eidolon"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-rotter.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9cdfdab5fb/icons-spitalians-rotter.jpg",
+    "last_seen": "2598",
+    "name": "Rotter",
+    "rank": "Preservist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/rotter",
+    "summary": "The avatar of Eidolon, the voice of the Dushani. He has been led to Justitian so he can find information that will allow his master to break free of Triglaw's trap and destroy the Marauder once and for all.",
+    "url_name": "rotter"
+}

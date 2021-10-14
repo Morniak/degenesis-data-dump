@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/karolus",
+            "image_name": "0039-karolus-final.jpg",
+            "name": "Karolus"
+        },
+        {
+            "href": "/world/icons/judges/kerber",
+            "image_name": "0038-kerber-final.jpg",
+            "name": "Kerber"
+        },
+        {
+            "href": "/world/icons/judges/arcville",
+            "image_name": "icons-judges-arcville.jpg",
+            "name": "Arcville"
+        },
+        {
+            "href": "/world/icons/judges/iwanov",
+            "image_name": "0044-ivanow-final.jpg",
+            "name": "Iwanov"
+        },
+        {
+            "href": "/world/icons/spitalians/doctor-masur",
+            "image_name": "icons-spitalians-doctor-masur.jpg",
+            "name": "Doctor Masur"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Franka",
+    "image_name": "icons-judges-levantis.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6e1f1f3cfb/icons-judges-levantis.jpg",
+    "last_seen": "2598",
+    "name": "Levantis",
+    "rank": "Commissioner",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/levantis",
+    "summary": "A hardened Commissioner, and one of the Judiciary's most legendary figures, Levantis was on the brink of retirement. However, he has taken on one last case, hunting down a shadowy group of Judges operating outside the bounds of the Codex. ",
+    "url_name": "levantis"
+}

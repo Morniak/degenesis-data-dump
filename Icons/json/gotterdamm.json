@@ -1,0 +1,30 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/clanners/gotterdamm",
+    "bio_url": "https://degenesis.com/world/bio/clanners/gotterdamm",
+    "concept": "The Disciple",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        }
+    ],
+    "cult": "Clanners",
+    "image_name": "icons-clanners-gotterdamm.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b728f30240/icons-clanners-gotterdamm.jpg",
+    "last_seen": "2598",
+    "name": "Gotterdamm",
+    "rank": "Defiler",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/gotterdamm",
+    "summary": "He spent a lifetime trapped in a dark basement. Nameless. Until he escaped. He raged against the nonsensical rules of the men with the hammers and hats, until they tattooed a blue stripe on his face and pushed him into the Defiler Streets. There, he found his family. ",
+    "url_name": "gotterdamm"
+}

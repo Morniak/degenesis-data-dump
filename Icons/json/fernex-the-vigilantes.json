@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Montpellier",
+    "bio_href": "/world/bio/clanners/fernex",
+    "bio_url": "https://degenesis.com/world/bio/clanners/fernex",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/verena",
+            "image_name": "icons-anabaptists-verena.jpg",
+            "name": "Verena"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-fernex.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/82eda604d9/icons-clanners-fernex.jpg",
+    "last_seen": "2596",
+    "name": "Fernex",
+    "rank": "Vigilantes",
+    "source": [
+        "In Thy Blood,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/fernex-the-vigilantes",
+    "summary": "A hermit and traveler in northern Purgare who collects any and all information about Psychokinetics in his small hunting book.  After the disaster in Lucatore, he accompanies Verena to uncover the secret of the seed she was given by Altair.",
+    "url_name": "fernex-the-vigilantes"
+}

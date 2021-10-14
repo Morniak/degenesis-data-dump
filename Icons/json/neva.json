@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/anabaptists/neva",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/neva",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/clanners/papa-chicco",
+            "image_name": "icons-clanners-papa-chicco.jpg",
+            "name": "Papa Chicco"
+        },
+        {
+            "href": "/world/icons/psychokinetics/vikal",
+            "image_name": "icons-psychokinetics-vikal.jpg",
+            "name": "Vikal"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "icons-anabaptists-neva.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b0093a15cb/icons-anabaptists-neva.jpg",
+    "last_seen": "2595",
+    "name": "Neva",
+    "rank": "Emissary",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/neva",
+    "summary": "The wife of the deceased Baptist Altair and the mother of the Psychokinetic Vikal. Former leader of the Cloister of Lucatore.",
+    "url_name": "neva"
+}

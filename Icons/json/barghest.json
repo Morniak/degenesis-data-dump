@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Purgare, Mistral",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/psychokinetics/vikal",
+            "image_name": "icons-psychokinetics-vikal.jpg",
+            "name": "Vikal"
+        }
+    ],
+    "culture": "Purgare",
+    "from_hell": "Psychokinetics",
+    "image_name": "icons-psychokinetics-barghest.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7372fd2c0f/icons-psychokinetics-barghest.jpg",
+    "last_seen": "2596",
+    "name": "Barghest",
+    "rank": "Archon",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/psychokinetics/barghest",
+    "summary": "Powerful Archon who has left a swath of destruction in the area of Lucatore.",
+    "url_name": "barghest"
+}

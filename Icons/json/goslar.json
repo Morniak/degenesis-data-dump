@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/anabaptists/goslar",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/goslar",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/ivy",
+            "image_name": "icons-apocalyptics-ivy.jpg",
+            "name": "Ivy"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Borca",
+    "image_name": "icons-anabaptists-goslar.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0543d147e3/icons-anabaptists-goslar.jpg",
+    "last_seen": "2598",
+    "name": "Goslar",
+    "rank": "Ascetic",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/goslar",
+    "summary": "Goslar lives a simple life, tending to his small parcel outside of Justitian, paying no heed to the wars raging on the borders of the Protectorate and beyond. However, his simple life was recently upset by the arrival of a strange, wounded man, bearing a tattoo of the number 600 on his arm.",
+    "url_name": "goslar"
+}

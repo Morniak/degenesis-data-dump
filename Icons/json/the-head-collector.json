@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/sleepers/the-head-collector",
+    "bio_url": "https://degenesis.com/world/bio/sleepers/the-head-collector",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/belmondo",
+            "image_name": "icons-clanners-belmondo.jpg",
+            "name": "Belmondo"
+        },
+        {
+            "href": "/world/icons/judges/utrecht",
+            "image_name": "icons-judges-utrecht.jpg",
+            "name": "Utrecht"
+        },
+        {
+            "href": "/world/icons/sleepers/trice",
+            "image_name": "icons-sleepers-trice.jpg",
+            "name": "Trice"
+        }
+    ],
+    "cult": "Scrappers",
+    "image_name": "icons-scrappers-head-collector.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0ca234c035/icons-scrappers-head-collector.jpg",
+    "last_seen": "2596",
+    "name": "The Head Collector",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/the-head-collector",
+    "summary": "A suspected Scrapper who has murdered 29 other Scrappers in Tech Central in recent years. He\u2019s still on the loose, and the Judges don\u2019t have a single lead.",
+    "url_name": "the-head-collector"
+}

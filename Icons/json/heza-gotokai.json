@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/danislai-ogota",
+            "image_name": "icons-clanners-danislai-ogota.jpg",
+            "name": "Danislai Ogota"
+        },
+        {
+            "href": "/world/icons/clanners/khaleb-ogota",
+            "image_name": "icons-clanners-khaleb-ogota.jpg",
+            "name": "Khaleb Ogota"
+        },
+        {
+            "href": "/world/icons/clanners/ferhat-the-abhorred",
+            "image_name": "icons-clanners-ferhat.jpg",
+            "name": "Ferhat, The Abhorred"
+        },
+        {
+            "href": "/world/icons/judges/laakon",
+            "image_name": "0031-laakon-final.jpg",
+            "name": "Laakon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-heza-gotokai.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/444e7ef2dd/icons-clanners-heza-gotokai.jpg",
+    "last_seen": "2598",
+    "name": "Heza Gotokai",
+    "rank": "Steel Master",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/heza-gotokai",
+    "summary": "Heza knows the reason for the Steel Masters' degeneration. In their palace of iron, they lack for nothing, but this tower has become their tomb. He wants to lead his Clan down from the Steel Monolith, allow them to mingle with the people of the world below, and ensure the survival of their traditions. ",
+    "url_name": "heza-gotokai"
+}

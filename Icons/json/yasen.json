@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/vicarent",
+            "image_name": "icons-anabaptists-vicarent.jpg",
+            "name": "Vicarent"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "icons-yasen.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1fa7133276/icons-yasen.jpg",
+    "last_seen": "2597",
+    "name": "Yasen",
+    "rank": "Emissary",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/yasen",
+    "summary": "An Anabaptist extremist, speaking out against all that he sees as evil or impure - including the Sublime Vicarent himself.",
+    "url_name": "yasen"
+}

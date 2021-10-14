@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        },
+        {
+            "href": "/world/icons/scourgers/mbeke",
+            "image_name": "icons-mbeke.jpg",
+            "name": "Mbeke"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-bejide.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/734a760290/icons-neolibyans-bejide.jpg",
+    "last_seen": "2598",
+    "name": "Bejide",
+    "rank": "Magnate",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/bejide",
+    "summary": "The mastermind behind the destruction of the notorious Sun Flock in the Mediterranean, she has come to Justitian in order to tie up a pair of loose ends - Vulco and Argus, the only survivors of her operation. ",
+    "url_name": "bejide"
+}

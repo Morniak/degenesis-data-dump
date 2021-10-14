@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-the-cartographer.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c0bafb1d4e/icons-scrappers-the-cartographer.jpg",
+    "last_seen": "2598",
+    "name": "The Cartographer",
+    "rank": "Lone Wolf",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/the-cartographer",
+    "summary": "A wanderer who has made it his life's mission to fully explore and record the Black Lung in history. No one knows the Protectorate's geography and culture like he does.",
+    "url_name": "the-cartographer"
+}

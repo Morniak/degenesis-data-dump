@@ -1,0 +1,46 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/judges/arcville",
+    "bio_url": "https://degenesis.com/world/bio/judges/arcville",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/judges/iwanov",
+            "image_name": "0044-ivanow-final.jpg",
+            "name": "Iwanov"
+        },
+        {
+            "href": "/world/icons/chroniclers/mirage",
+            "image_name": "icons-chroniclers-mirage.jpg",
+            "name": "Mirage"
+        },
+        {
+            "href": "/world/icons/chroniclers/factor",
+            "image_name": "icons-chroniclers-factor.jpg",
+            "name": "Factor"
+        },
+        {
+            "href": "/world/icons/chroniclers/decoy-5",
+            "image_name": "icons-chroniclers-decoy-5.jpg",
+            "name": "Decoy 5"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Franka",
+    "image_name": "icons-judges-arcville.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/82bd359505/icons-judges-arcville.jpg",
+    "last_seen": "2596",
+    "name": "Arcville",
+    "rank": "Black Judge",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/arcville",
+    "summary": "One of Rutgar\u2019s Black Judges, sent to Toulon as support for Operation Mirage.",
+    "url_name": "arcville"
+}

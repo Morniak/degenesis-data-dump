@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Brest",
+    "bio_href": "/world/bio/clanners/oppolus",
+    "bio_url": "https://degenesis.com/world/bio/clanners/oppolus",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/vicarent",
+            "image_name": "icons-anabaptists-vicarent.jpg",
+            "name": "Vicarent"
+        },
+        {
+            "href": "/world/icons/anabaptists/barringer",
+            "image_name": "icons-anabaptists-barringer.jpg",
+            "name": "Barringer"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-oppolus.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/55039cf743/icons-clanners-oppolus.jpg",
+    "last_seen": "2597",
+    "name": "Oppolus",
+    "rank": "Britoni",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/oppolus",
+    "summary": "The King of the Britoni, their most capable hunter, and the father of Vicarent and Barringer.",
+    "url_name": "oppolus"
+}

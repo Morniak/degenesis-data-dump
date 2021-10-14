@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/scrappers/deich",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/deich",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/scrappers/nestor",
+            "image_name": "icons-scrappers-nestor.jpg",
+            "name": "Nestor"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/neolibyans/zohra",
+            "image_name": "icons-neolibyans-zohra.jpg",
+            "name": "Zohra"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-deich.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d2348d5a2e/icons-scrappers-deich.jpg",
+    "last_seen": "2596",
+    "name": "Deich",
+    "rank": "Officer",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/deich",
+    "summary": "Former Cartel member, tasked by his master Bosch to support the Iron Brothers and the siege of Toulon. He was a dim-wit, known for his crude humor and brute strength. Died during the onslaught of the city.",
+    "url_name": "deich"
+}

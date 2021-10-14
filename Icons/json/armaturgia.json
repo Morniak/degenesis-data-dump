@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Ducal",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/cardial",
+            "image_name": "icons-apocalyptics-cardial.jpg",
+            "name": "Cardial"
+        },
+        {
+            "href": "/world/icons/spitalians/vatenguerre",
+            "image_name": "icons-vatenguerre.jpg",
+            "name": "Vatenguerre"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-armaturgia.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7f6cd56b18/icons-armaturgia.jpg",
+    "last_seen": "2596",
+    "name": "Armaturgia",
+    "rank": "Cuckoo",
+    "source": [
+        "Rising Ravens"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/armaturgia",
+    "summary": "A Cuckoo and double agent in service to the Raven Cardial. Originally hailed from Ducal.",
+    "url_name": "armaturgia"
+}

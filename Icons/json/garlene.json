@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/scrappers/garlene",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/garlene",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/parel",
+            "image_name": "icons-scrappers-parel.jpg",
+            "name": "Parel"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Franka",
+    "image_name": "icons-scrappers-garlene.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9359b85bd0/icons-scrappers-garlene.jpg",
+    "last_seen": "2597",
+    "name": "Garlene",
+    "rank": "Machinist",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/garlene",
+    "summary": "The only survivor of the Atlas oil platform, she has been infected by something out of a nightmare. She desperately seeks help in Brest.",
+    "url_name": "garlene"
+}

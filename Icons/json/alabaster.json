@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/apocalyptics/alabaster",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/alabaster",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        },
+        {
+            "href": "/world/icons/hellvetics/baptiste",
+            "image_name": "icons-hellvetics-baptiste.jpg",
+            "name": "Baptiste"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hexell",
+            "image_name": "icons-apocalyptics-hexell.jpg",
+            "name": "Hexell"
+        },
+        {
+            "href": "/world/icons/chroniclers/factor",
+            "image_name": "icons-chroniclers-factor.jpg",
+            "name": "Factor"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-apocalyptics-alabaster.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a3f61edbf5/icons-apocalyptics-alabaster.jpg",
+    "last_seen": "2596",
+    "name": "Alabaster",
+    "rank": "Magpie",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/alabaster",
+    "summary": "Rattler\u2019s former love interest and Magpie, she is the only survivor of his Flock. She carries a secret capsule given to her by the Phoenix.",
+    "url_name": "alabaster"
+}

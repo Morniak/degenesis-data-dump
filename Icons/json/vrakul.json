@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/clanners/vrakul",
+    "bio_url": "https://degenesis.com/world/bio/clanners/vrakul",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/preissler",
+            "image_name": "icons-spitalians-preissler.jpg",
+            "name": "Preissler"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-vrakul.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5579c421da/icons-clanners-vrakul.jpg",
+    "last_seen": "2598",
+    "name": "Vrakul",
+    "rank": "Champion",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/vrakul",
+    "summary": "The last champion of the Taunar bloodline, Vrakul has come to Justitian to hunt down the Spitalian that massacred his family.",
+    "url_name": "vrakul"
+}

@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Purgare",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/anabaptists/amos",
+            "image_name": "anabaptists.png",
+            "name": "Amos"
+        },
+        {
+            "href": "/world/icons/anabaptists/orphid",
+            "image_name": "icons-anabaptists-orphid.jpg",
+            "name": "Orphid"
+        },
+        {
+            "href": "/world/icons/anabaptists/trachees",
+            "image_name": "icons-anabaptists-trachees.jpg",
+            "name": "Trachees"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "icons-anabaptists-nuntius.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2480x2480/d57df5e787/icons-anabaptists-nuntius.jpg",
+    "last_seen": "2595",
+    "name": "Nuntius",
+    "rank": "Baptist",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/nuntius",
+    "summary": "One of the eight Baptists leading the Cult. The only man to have entered Nox, where he went blind and mad. He has demanded that the Rift around the crater be broken to free the divine Pneuma.",
+    "url_name": "nuntius"
+}

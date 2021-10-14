@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/bumblebee",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/bumblebee",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/scrappers/king-cockroach",
+            "image_name": "icons-scrappers-king-cockroach.jpg",
+            "name": "King Cockroach"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-bumblebee.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7e1bc784e0/icons-scrappers-bumblebee.jpg",
+    "last_seen": "2598",
+    "name": "Bumblebee",
+    "rank": "Legend",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/bumblebee",
+    "summary": "The most celebrated Manufacturer in Justitian, and Archot's favorite Scrapper, Bumblebee is a genius craftsman and engineer. If only he didn't have to put up with all the pomp and circumstance, and was allowed to just get on with his work. ",
+    "url_name": "bumblebee"
+}

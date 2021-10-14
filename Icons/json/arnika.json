@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/palers/arnika",
+    "bio_url": "https://degenesis.com/world/bio/palers/arnika",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/sleepers/helios",
+            "image_name": "icons-sleepers-helios.jpg",
+            "name": "Helios"
+        }
+    ],
+    "cult": "Palers",
+    "culture": "Balkhan",
+    "image_name": "icons-palers-arnika.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/237668218d/icons-palers-arnika.jpg",
+    "last_seen": "2597",
+    "name": "Arnika",
+    "rank": "Halo",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/palers/arnika",
+    "summary": "A Paler willing to give up his life in the service for his God, the Sleeper Prophet Helios, after rescuing him from Argyre.",
+    "url_name": "arnika"
+}

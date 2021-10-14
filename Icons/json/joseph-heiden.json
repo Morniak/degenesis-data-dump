@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/elliot-heilkamp",
+            "image_name": "icons-spitalians-elliot-heilkamp.jpg",
+            "name": "Elliot Heilkamp"
+        },
+        {
+            "href": "/world/icons/scrappers/mendelson",
+            "image_name": "icons-scrappers-mendelson.jpg",
+            "name": "Mendelson"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-joseph-heiden.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4db0b2767f/icons-spitalians-joseph-heiden.jpg",
+    "last_seen": "2598",
+    "name": "Joseph Heiden",
+    "rank": "Surgeon",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/joseph-heiden",
+    "summary": "Formerly the most highly decorated Surgeon of the Spital, but laid low by a medical condition that confined him to a neck brace. Now, Burn is his only respite from his disability - but his supply has run dry. ",
+    "url_name": "joseph-heiden"
+}

@@ -1,0 +1,49 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "concept": "The Righteous",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/neva",
+            "image_name": "icons-anabaptists-neva.jpg",
+            "name": "Neva"
+        },
+        {
+            "href": "/world/icons/anabaptists/abacus",
+            "image_name": "icons-anabaptists-abacus.jpg",
+            "name": "Abacus"
+        },
+        {
+            "href": "/world/icons/spitalians/vasco",
+            "image_name": "icons-spitalians-nikolai-vasco.jpg",
+            "name": "Vasco"
+        },
+        {
+            "href": "/world/icons/anabaptists/lucio-bastardo",
+            "image_name": "icons-anabaptists-lucio-bastardo.jpg",
+            "name": "Lucio Bastardo"
+        },
+        {
+            "href": "/world/icons/spitalians/carmino-ferro",
+            "image_name": "icons-spitaians-carmino-ferro.jpg",
+            "name": "Carmino Ferro"
+        },
+        {
+            "href": "/world/icons/psychokinetics/vikal",
+            "image_name": "icons-psychokinetics-vikal.jpg",
+            "name": "Vikal"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "anabaptists_altair_itb.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0123f19439/anabaptists_altair_itb.jpg",
+    "last_seen": "2595",
+    "name": "Altair",
+    "rank": "Baptist",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/altair",
+    "summary": "Altair, one of the eight Baptists at the head of the Anabaptist Cult, was murdered in Lucatore. He was the husband of Neva and the father of Vikal.",
+    "url_name": "altair"
+}

@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Rh\u00f4ne Swamps",
+    "bio_href": "/world/bio/clanners/opis",
+    "bio_url": "https://degenesis.com/world/bio/clanners/opis",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/wachsmann",
+            "image_name": "icons-spitalians-wachsmann.jpg",
+            "name": "Wachsmann"
+        },
+        {
+            "href": "/world/icons/spitalians/charcutier",
+            "image_name": "icons-charcutier.jpg",
+            "name": "Charcutier"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-opis.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b8043a451d/icons-clanners-opis.jpg",
+    "last_seen": "2596",
+    "name": "Opis",
+    "rank": "Grenouille",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/opis",
+    "summary": "The henchman of the deceased Commando Prime Wachsmann. On the run with the children of his master\u2019s Orphanage.",
+    "url_name": "opis"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Borca",
+    "image_name": "icons-jehammedans-fatim.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6ee53cb68b/icons-jehammedans-fatim.jpg",
+    "last_seen": "2598",
+    "name": "Fatim, The Barber",
+    "rank": "Ismaeli",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/fatim-the-barber",
+    "summary": "The proprietor of Justitian's Bath House, a neutral zone where anyone can come to relax and unwind. Fatim uses his position to collect gossip, information, and rumors - while he satisfies his own depraved cravings in the Flotsam.",
+    "url_name": "fatim-the-barber"
+}

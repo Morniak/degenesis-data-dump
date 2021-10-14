@@ -1,0 +1,66 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/chroniclers/nullify",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/nullify",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/decoy-5",
+            "image_name": "icons-chroniclers-decoy-5.jpg",
+            "name": "Decoy 5"
+        },
+        {
+            "href": "/world/icons/chroniclers/case",
+            "image_name": "icons-case.jpg",
+            "name": "Case"
+        },
+        {
+            "href": "/world/icons/chroniclers/factor",
+            "image_name": "icons-chroniclers-factor.jpg",
+            "name": "Factor"
+        },
+        {
+            "href": "/world/icons/chroniclers/membrane",
+            "image_name": "icons-chroniclers-membrane.jpg",
+            "name": "Membrane"
+        },
+        {
+            "href": "/world/icons/chroniclers/alias",
+            "image_name": "icons-chroniclers-alias.jpg",
+            "name": "Alias"
+        },
+        {
+            "href": "/world/icons/scrappers/steelbeam",
+            "image_name": "icons-scrappers-steelbeam.jpg",
+            "name": "Steelbeam"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-nullify.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2002/cb76d29d06/icons-nullify.jpg",
+    "last_seen": "2596",
+    "name": "Nullify",
+    "rank": "Scalar",
+    "source": [
+        "Katharsys, "
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/nullify",
+    "summary": "A Scalar working behind the scenes in the deepest reaches of the Cluster, manipulating his Cult from the shadows. He has begun plotting to overthrow the slave of Triglaw, Impulse, and has contacted a Needle from East Borca to accomplish that.  ",
+    "url_name": "nullify"
+}

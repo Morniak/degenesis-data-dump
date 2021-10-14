@@ -1,0 +1,25 @@
+{
+    "area_of_operations": "Territorial Region I",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/bianchi",
+            "image_name": "icons-bianchi.jpg",
+            "name": "Bianchi"
+        },
+        {
+            "href": "/world/icons/hellvetics/verhoest",
+            "image_name": "icons-hellvetics-verhoest.jpg",
+            "name": "Verhoest"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Franka",
+    "image_name": "icons-hellvetics-montovan.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/4000x4000/cb892d5254/icons-hellvetics-montovan.jpg",
+    "name": "Montovan",
+    "rank": "Corps Commander",
+    "source_url": "https://degenesis.com/world/icons/hellvetics/montovan",
+    "summary": "A former Chasseur of the Resistance, Montovan was recruited by the Hellvetics and quickly rose to prominence within the Cult. She\u2019s the youngest Corps Commander to ever hold the office, and oversees all operations in Territorial Region I.",
+    "url_name": "montovan"
+}

@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/chroniclers/Decoy-5",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/Decoy-5",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/judges/arcville",
+            "image_name": "icons-judges-arcville.jpg",
+            "name": "Arcville"
+        },
+        {
+            "href": "/world/icons/chroniclers/mirage",
+            "image_name": "icons-chroniclers-mirage.jpg",
+            "name": "Mirage"
+        },
+        {
+            "href": "/world/icons/neolibyans/atuma",
+            "image_name": "icons-neolibyans-atuma.jpg",
+            "name": "Atuma"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-decoy-5.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fdbc70e61f/icons-chroniclers-decoy-5.jpg",
+    "last_seen": "2596",
+    "name": "Decoy 5",
+    "rank": "Shutter",
+    "source": [
+        "In Thy Blood,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/decoy-5",
+    "summary": "A Shutter with a plethora of secret identities. He infiltrates regions and carries out missions in the guise of different Cults. He operates alone, save for his small recon drone Eico.",
+    "url_name": "decoy-5"
+}

@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Montpellier",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/decoy-5",
+            "image_name": "icons-chroniclers-decoy-5.jpg",
+            "name": "Decoy 5"
+        },
+        {
+            "href": "/world/icons/spitalians/narida-woznan",
+            "image_name": "icons-spitalians-narida-woznan.jpg",
+            "name": "Narida Woznan"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-atuma.jpg",
+    "image_url": "https://img2.storyblok.com/886x0/filters:quality(90)/f/72501/886x886/9c8ed3173f/icons-neolibyans-atuma.jpg",
+    "last_seen": "2596",
+    "name": "Atuma",
+    "rank": "Consul",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/atuma",
+    "summary": "The Consul of Montpellier. Received his title after surviving several failed assassination attempts.",
+    "url_name": "atuma"
+}

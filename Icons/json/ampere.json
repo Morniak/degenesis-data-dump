@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/chroniclers/ampere",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/ampere",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/parel",
+            "image_name": "icons-scrappers-parel.jpg",
+            "name": "Parel"
+        },
+        {
+            "href": "/world/icons/scrappers/garlene",
+            "image_name": "icons-scrappers-garlene.jpg",
+            "name": "Garlene"
+        },
+        {
+            "href": "/world/icons/jehammedans/eris",
+            "image_name": "icons-jehammedans-eris.jpg",
+            "name": "Eris"
+        },
+        {
+            "href": "/world/icons/chroniclers/deslect",
+            "image_name": "icons-chroniclers-deselect.jpg",
+            "name": "Deselect"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-ampere.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/cb21149d90/icons-chroniclers-ampere.jpg",
+    "last_seen": "2597",
+    "name": "Ampere",
+    "rank": "Streamer",
+    "source": [
+        "Black Atlantic,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/ampere",
+    "summary": "A Streamer tasked with cracking the mental conditioning of Argyre\u2019s Picton warriors and uncovering the secret of Jehammed\u2019s Will.",
+    "url_name": "ampere"
+}

@@ -1,0 +1,30 @@
+{
+    "bio_href": "/world/bio/spitalians/vasco",
+    "bio_url": "https://degenesis.com/world/bio/spitalians/vasco",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/petrova",
+            "image_name": "icons-petrova.jpg",
+            "name": "Petrova"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Hybrispania",
+    "image_name": "icons-spitalians-nikolai-vasco.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/43fa9a14c4/icons-spitalians-nikolai-vasco.jpg",
+    "last_seen": "2570",
+    "name": "Vasco",
+    "rank": "Epigeneticist",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/vasco",
+    "summary": "Heretical Spitalian who claimed the war against the Primer was a flawed decision. Proclaimed to be dead, but has since resurfaced in many locations.",
+    "url_name": "vasco"
+}

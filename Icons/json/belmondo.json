@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/the-head-collector",
+            "image_name": "icons-scrappers-head-collector.jpg",
+            "name": "The Head Collector"
+        },
+        {
+            "href": "/world/icons/judges/utrecht",
+            "image_name": "icons-judges-utrecht.jpg",
+            "name": "Utrecht"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-belmondo.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ab3e020a11/icons-clanners-belmondo.jpg",
+    "last_seen": "2598",
+    "name": "Belmondo",
+    "rank": "Tainted One",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/belmondo",
+    "summary": "Belmondo belongs to the tainted ones of Justitian. He will never again be allowed to return to civilized society. Instead, he is forced to make a living disposing of corpses and exterminating vermin for the Knacker's Office. ",
+    "url_name": "belmondo"
+}

@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/judges/aritha-manteufel",
+            "image_name": "icons-judges-aritha-manteufel.jpg",
+            "name": "Aritha Manteufel"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-emiel-salvano.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/21786adb13/icons-judges-emiel-salvano.jpg",
+    "last_seen": "2598",
+    "name": "Emiel Salvano",
+    "rank": "Advocate",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/emiel-salvano",
+    "summary": "The head of the Salvano Advocate family, Emiel works tirelessly to achieve the driving goal of his house: ensuring that the office of the Supreme Judge becomes inextricably linked to his family name.",
+    "url_name": "emiel-salvano"
+}

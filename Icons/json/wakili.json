@@ -1,0 +1,61 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/neolibyans/wakili",
+    "bio_url": "https://degenesis.com/world/bio/neolibyans/wakili",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/hellvetics/gustav-bloch",
+            "image_name": "icons-hellvetics-gustav-bloch.jpg",
+            "name": "Gustav Bloch"
+        },
+        {
+            "href": "/world/icons/scrappers/sorrow",
+            "image_name": "icons-scrappers-sorrow.jpg",
+            "name": "Sorrow"
+        },
+        {
+            "href": "/world/icons/neolibyans/bejide",
+            "image_name": "icons-neolibyans-bejide.jpg",
+            "name": "Bejide"
+        },
+        {
+            "href": "/world/icons/scourgers/gacoki",
+            "image_name": "icons-scourgers-gacoki.jpg",
+            "name": "Gacoki"
+        },
+        {
+            "href": "/world/icons/scrappers/the-cartographer",
+            "image_name": "icons-scrappers-the-cartographer.jpg",
+            "name": "The Cartographer"
+        },
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-wakili.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6873f2b48a/icons-neolibyans-wakili.jpg",
+    "last_seen": "2595",
+    "name": "Wakili",
+    "rank": "Ambassador",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/wakili",
+    "summary": "The Neolibyan Ambassador representing Africa to the Judiciary's Senates. A tenuous ally of Kranzler, and the one who allowed the Spitalians to establish their beachhead in Qabis.  ",
+    "url_name": "wakili"
+}

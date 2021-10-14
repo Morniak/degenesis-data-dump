@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Purgare, Territorial Region III",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/bianchi",
+            "image_name": "icons-bianchi.jpg",
+            "name": "Bianchi"
+        },
+        {
+            "href": "/world/icons/hellvetics/helena-of-timmelsjoch",
+            "image_name": "icons-hellvetics-helena-of-timmelsjoch.jpg",
+            "name": "Helena of Timmelsjoch"
+        },
+        {
+            "href": "/world/icons/hellvetics/montovan",
+            "image_name": "icons-hellvetics-montovan.jpg",
+            "name": "Montovan"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Borca",
+    "image_name": "icons-hellvetics-verhoest.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d8bc36ce47/icons-hellvetics-verhoest.jpg",
+    "last_seen": "2595",
+    "name": "Verhoest",
+    "rank": "Corps Commander",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/verhoest",
+    "summary": "The Corps Commander of Territorial Region III. He oversees all Hellvetic forces and operations in the Purgan Alps.",
+    "url_name": "verhoest"
+}

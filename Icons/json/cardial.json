@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Franka, Ducal",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/armaturgia",
+            "image_name": "icons-armaturgia.jpg",
+            "name": "Armaturgia"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-apocalyptics-cardial.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/31c86b8d4d/icons-apocalyptics-cardial.jpg",
+    "last_seen": "2596",
+    "name": "Cardial",
+    "rank": "Raven",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/cardial",
+    "summary": "The Raven of Ducal. He has powerful friends among the Neolibyans, but is abhorred by the Romanos.",
+    "url_name": "cardial"
+}

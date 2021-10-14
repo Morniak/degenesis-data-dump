@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Pollen",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        },
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/apocalyptics/jade",
+            "image_name": "icons-apocalyptics-jade.jpg",
+            "name": "Jade"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Pollen",
+    "image_name": "icons-apocalyptics-joshua.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c0e196ac5b/icons-apocalyptics-joshua.jpg",
+    "last_seen": "2598",
+    "name": "Joshua, The Butcher",
+    "rank": "Apostate",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/joshua-the-butcher",
+    "summary": "The Biokinetic son of the Mother of Ravens, shacked to her will by a web of memetics and physical restraints. ",
+    "url_name": "joshua-the-butcher"
+}

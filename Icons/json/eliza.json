@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/chroniclers/eliza",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/eliza",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/modus",
+            "image_name": "icons-chroniclers-modus.jpg",
+            "name": "Modus"
+        },
+        {
+            "href": "/world/icons/chroniclers/alias",
+            "image_name": "icons-chroniclers-alias.jpg",
+            "name": "Alias"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-eliza.jpg",
+    "image_url": "https://img2.storyblok.com/1000x0/filters:quality(90)/f/72501/1000x1000/37fb31e839/icons-chroniclers-eliza.jpg",
+    "last_seen": "2598",
+    "name": "Eliza",
+    "rank": "Streamer",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/eliza",
+    "summary": "Eliza knows absolutely no mercy when it comes to defending the Cluster, from any kind of threat. Her mission, given to her by Aspera, the Marauder, is to hunt down and exterminate any Sleepers attempting to infiltrate Justitian - by any means necessary. ",
+    "url_name": "eliza"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/factor",
+            "image_name": "icons-chroniclers-factor.jpg",
+            "name": "Factor"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "0018-load-final.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f7309f579e/0018-load-final.jpg",
+    "last_seen": "2595",
+    "name": "Load",
+    "rank": "Shutter",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/load",
+    "summary": "After barely avoiding the disastrous failure of Commando Requiem in Toulon, and his original destination of Aquitaine was obliterated in nuclear hellfire, Load has arrived in Justitian bearing top secret information - with no way of proving his identity.",
+    "url_name": "load"
+}

@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/decker",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/decker",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/paul-glauser",
+            "image_name": "icons-hellvetics-paul-glauser.jpg",
+            "name": "Paul Glauser"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-decker.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d393a0c699/icons-scrappers-decker.jpg",
+    "last_seen": "2598",
+    "name": "Decker",
+    "rank": "Mechanist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/decker",
+    "summary": "Decker has spent a long life in service of Justitian, working to keep the elevator platforms, the aerial railway, and the cargo cranes supplying Uptown in operation. Now, he has been given the task of helping a Hellvetic Genie with cleaning up the Crack. If only his new boss would stop prattling on with his conspiracy theories. ",
+    "url_name": "decker"
+}

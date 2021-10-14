@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/hellvetics/paul-glauser",
+    "bio_url": "https://degenesis.com/world/bio/hellvetics/paul-glauser",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/gustav-bloch",
+            "image_name": "icons-hellvetics-gustav-bloch.jpg",
+            "name": "Gustav Bloch"
+        },
+        {
+            "href": "/world/icons/scrappers/decker",
+            "image_name": "icons-scrappers-decker.jpg",
+            "name": "Decker"
+        },
+        {
+            "href": "/world/icons/scrappers/the-cartographer",
+            "image_name": "icons-scrappers-the-cartographer.jpg",
+            "name": "The Cartographer"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Borca",
+    "image_name": "icons-hellvetics-paul-glauser.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3bccfccfe8/icons-hellvetics-paul-glauser.jpg",
+    "last_seen": "2598",
+    "name": "Paul Glauser",
+    "rank": "Genie",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/paul-glauser",
+    "summary": "After a huge portion of Justitian collapsed, the Hellvetics were brought in to supervise the reconstruction, with Paul as the Genie in command. However, his work has been stymied by the meddling of the Chroniclers - what do they want to hide?",
+    "url_name": "paul-glauser"
+}

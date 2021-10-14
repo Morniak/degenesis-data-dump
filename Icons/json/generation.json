@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/laakon",
+            "image_name": "0031-laakon-final.jpg",
+            "name": "Laakon"
+        },
+        {
+            "href": "/world/icons/hellvetics/paul-glauser",
+            "image_name": "icons-hellvetics-paul-glauser.jpg",
+            "name": "Paul Glauser"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-generation.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/627d5f9005/icons-chroniclers-generation.jpg",
+    "last_seen": "2598",
+    "name": "Generation",
+    "rank": "Mediator",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/generation",
+    "summary": "An Observer who has been gathering immense quantities of data from across Justitian, and is believed to be on the verge of unlocking the final secrets of the fabled reality formula of the Stream.",
+    "url_name": "generation"
+}

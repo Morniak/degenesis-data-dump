@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Franka, Cremant",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/charcutier",
+            "image_name": "icons-charcutier.jpg",
+            "name": "Charcutier"
+        },
+        {
+            "href": "/world/icons/spitalians/bascule",
+            "image_name": "icons-spitalians-bascule.jpg",
+            "name": "Bascule"
+        },
+        {
+            "href": "/world/icons/spitalians/dr-vega",
+            "image_name": "icons-spitalians-vega.jpg",
+            "name": "Doctor Vega"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Franka",
+    "image_name": "icons-vatenguerre.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b34a965a6e/icons-vatenguerre.jpg",
+    "last_seen": "2596",
+    "name": "Vatenguerre",
+    "rank": "Preservist",
+    "source": [
+        "Rising Ravens,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/vatenguerre",
+    "summary": "Preservist of the Red Pack who went missing in action while hunting a Psychokinetic in Purgare. Resurfaced in Brest, after rescuing Bascule in Bayonne.",
+    "url_name": "vatenguerre"
+}

@@ -1,0 +1,56 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/chroniclers/corium",
+    "bio_url": "https://degenesis.com/world/bio/chroniclers/corium",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/chroniclers/alias",
+            "image_name": "icons-chroniclers-alias.jpg",
+            "name": "Alias"
+        },
+        {
+            "href": "/world/icons/palers/vesna",
+            "image_name": "icons-palers-vesna.jpg",
+            "name": "Vesna"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        },
+        {
+            "href": "/world/icons/chroniclers/membrane",
+            "image_name": "icons-chroniclers-membrane.jpg",
+            "name": "Membrane"
+        },
+        {
+            "href": "/world/icons/chroniclers/iridium",
+            "image_name": "icons-chroniclers-iridium.jpg",
+            "name": "Iridium"
+        },
+        {
+            "href": "/world/icons/chroniclers/eject",
+            "image_name": "icons-chroniclers-eject.jpg",
+            "name": "Eject"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-corium.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5e997aff7d/icons-chroniclers-corium.jpg",
+    "last_seen": "2598",
+    "name": "Corium",
+    "rank": "Needle",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/corium",
+    "summary": "One of the survivors of the Needle Tower Disaster, his hunger for revenge has been burning in him for decades. Now, he has returned to Justitian in order to secure an artifact that will lead the way to Baikonur, and from there, the stars. ",
+    "url_name": "corium"
+}

@@ -1,0 +1,61 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/rutgar",
+    "bio_url": "https://degenesis.com/world/bio/judges/rutgar",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/judges/iwanov",
+            "image_name": "0044-ivanow-final.jpg",
+            "name": "Iwanov"
+        },
+        {
+            "href": "/world/icons/judges/black-mary",
+            "image_name": "icons-judges-black-mary.jpg",
+            "name": "Black Mary"
+        },
+        {
+            "href": "/world/icons/judges/arcville",
+            "image_name": "icons-judges-arcville.jpg",
+            "name": "Arcville"
+        },
+        {
+            "href": "/world/icons/judges/utrecht",
+            "image_name": "icons-judges-utrecht.jpg",
+            "name": "Utrecht"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-rutgar.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9931faffd1/icons-judges-rutgar.jpg",
+    "last_seen": "2595",
+    "name": "Rutgar",
+    "rank": "Senator",
+    "source": [
+        "Primal Punk,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/rutgar",
+    "summary": "Senator and second in command of the Judges and the Protectorate. Known to be a shrewd negotiator and tactician, earning him the nickname the Old Wolf.",
+    "url_name": "rutgar"
+}

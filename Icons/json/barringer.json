@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Brest",
+    "bio_href": "/world/bio/anabaptists/barringer",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/barringer",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/anubians/imbali",
+            "image_name": "icons-anubians-imbali.jpg",
+            "name": "Imbali"
+        },
+        {
+            "href": "/world/icons/anabaptists/vicarent",
+            "image_name": "icons-anabaptists-vicarent.jpg",
+            "name": "Vicarent"
+        },
+        {
+            "href": "/world/icons/clanners/oppolus",
+            "image_name": "icons-clanners-oppolus.jpg",
+            "name": "Oppolus"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "icons-anabaptists-barringer.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3993141847/icons-anabaptists-barringer.jpg",
+    "last_seen": "2597",
+    "name": "Barringer",
+    "rank": "Ascetic",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/barringer",
+    "summary": "The brother of a hero, but chained to a fate that is not his own. Defender of the Starfire.",
+    "url_name": "barringer"
+}

@@ -1,0 +1,45 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/apocalyptics/rattler",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/rattler",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/callisto",
+            "image_name": "icons-apocalyptics-callisto.jpg",
+            "name": "Callisto"
+        },
+        {
+            "href": "/world/icons/apocalyptics/alabaster",
+            "image_name": "icons-apocalyptics-alabaster.jpg",
+            "name": "Alabaster"
+        },
+        {
+            "href": "/world/icons/chroniclers/mirage",
+            "image_name": "icons-chroniclers-mirage.jpg",
+            "name": "Mirage"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hexell",
+            "image_name": "icons-apocalyptics-hexell.jpg",
+            "name": "Hexell"
+        },
+        {
+            "href": "/world/icons/hellvetics/baptiste",
+            "image_name": "icons-hellvetics-baptiste.jpg",
+            "name": "Baptiste"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "image_name": "icons-apocalyptics-rattler.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/591f4747dd/icons-apocalyptics-rattler.jpg",
+    "last_seen": "2596",
+    "name": "Rattler",
+    "rank": "Phoenix",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/rattler",
+    "summary": "The Phoenix of the Firebirds. He was a lunatic who ignited the events that lead to the failure of Operation Mirage.",
+    "url_name": "rattler"
+}

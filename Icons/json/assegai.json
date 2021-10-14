@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Perpignan",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/elani",
+            "image_name": "icons-neolibyans-elani.jpg",
+            "name": "Elani"
+        },
+        {
+            "href": "/world/icons/clanners/veracq",
+            "image_name": "icons-clanners-veracq.jpg",
+            "name": "Veracq"
+        }
+    ],
+    "cult": "Scourgers",
+    "culture": "Africa",
+    "image_name": "icons-scourgers-assegai.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/841058f115/icons-scourgers-assegai.jpg",
+    "last_seen": "2596",
+    "name": "Assegai",
+    "rank": "Simba",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scourgers/assegai",
+    "summary": "A Simba, and the Weapons Master of Perpignan. He has gathered sixteen of the most veteran and skilled warriors he knows to be his Pride.",
+    "url_name": "assegai"
+}

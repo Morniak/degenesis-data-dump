@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Purgare, Mistral",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/psychokinetics/barghest",
+            "image_name": "icons-psychokinetics-barghest.jpg",
+            "name": "Barghest"
+        }
+    ],
+    "culture": "Purgare",
+    "from_hell": "Psychokinetics",
+    "image_name": "icons-psychokinetics-vikal.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7032da635c/icons-psychokinetics-vikal.jpg",
+    "last_seen": "2596",
+    "name": "Vikal",
+    "rank": "Larvae",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/psychokinetics/vikal",
+    "summary": "Son of Altair and Neva. Called the Archon Barghest to Lucatore to come to his rescue. Vikal is still in his Larval stage, shifting between human consciousness and Psychokinesis.",
+    "url_name": "vikal"
+}

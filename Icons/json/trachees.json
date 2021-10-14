@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Severinus",
+    "concept": "The Righteous",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/amos",
+            "image_name": "anabaptists.png",
+            "name": "Amos"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/anabaptists/nuntius",
+            "image_name": "icons-anabaptists-nuntius.jpg",
+            "name": "Nuntius"
+        },
+        {
+            "href": "/world/icons/anabaptists/orphid",
+            "image_name": "icons-anabaptists-orphid.jpg",
+            "name": "Orphid"
+        },
+        {
+            "href": "/world/icons/chroniclers/modus",
+            "image_name": "icons-chroniclers-modus.jpg",
+            "name": "Modus"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Borca",
+    "image_name": "icons-anabaptists-trachees.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/3000x3000/faf0bedf62/icons-anabaptists-trachees.jpg",
+    "last_seen": "2595",
+    "name": "Trachees",
+    "rank": "Baptist",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/trachees",
+    "summary": "One of the eight Baptists leading the Cult. Rules over Severinus, and is in league with Orphid. Aiming to destroy the Baptist Amos\u2019 reputation.",
+    "url_name": "trachees"
+}

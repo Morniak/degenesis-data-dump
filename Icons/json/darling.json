@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Hybrispania",
+    "image_name": "icons-apocalyptics-darling.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6c6e2a53c2/icons-apocalyptics-darling.jpg",
+    "last_seen": "2598",
+    "name": "Darling",
+    "rank": "Birdshit",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/darling",
+    "summary": "Once, he was a go-getter, with a towering ego and aspirations to overthrow the Raven of the Carrion Birds to become its new leader. Now, he is a ruined wreck of a man, with his identity shattered. ",
+    "url_name": "darling"
+}

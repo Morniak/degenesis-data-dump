@@ -1,0 +1,21 @@
+{
+    "area_of_operations": "Pollen, Wroclaw",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/the-piast",
+            "image_name": "icons-clanners-the-piast.jpg",
+            "name": "The Piast"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Pollen",
+    "image_name": "icons-jehammedans-red-judith.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0332c406ff/icons-jehammedans-red-judith.jpg",
+    "last_seen": "2598",
+    "name": "Red Judith",
+    "rank": "Oracle",
+    "source_url": "https://degenesis.com/world/icons/jehammedans/red-judith",
+    "summary": "The soothsayer of the Court of the Piast in Wroclaw. Said to know the secret of her master\u2019s origin.",
+    "url_name": "red-judith"
+}

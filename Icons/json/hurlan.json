@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/scrappers/hurlant",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/hurlant",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/nestor",
+            "image_name": "icons-scrappers-nestor.jpg",
+            "name": "Nestor"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Franka",
+    "image_name": "icons-scrappers-hurlant.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fe91a2a0ea/icons-scrappers-hurlant.jpg",
+    "last_seen": "2596",
+    "name": "Hurlant",
+    "rank": "Badger",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/hurlan",
+    "summary": "A member of the Iron Brothers and one of Nestor's generals during the Siege of Toulon. Known for her hatred for Spitalians and Neolibyans. Died in the siege of Toulon.",
+    "url_name": "hurlan"
+}

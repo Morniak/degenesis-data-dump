@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/karolus",
+    "bio_url": "https://degenesis.com/world/bio/judges/karolus",
+    "concept": "The Adventurer",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/kerber",
+            "image_name": "0038-kerber-final.jpg",
+            "name": "Kerber"
+        },
+        {
+            "href": "/world/icons/judges/levantis",
+            "image_name": "icons-judges-levantis.jpg",
+            "name": "Levantis"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "0039-karolus-final.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/55ba936acf/0039-karolus-final.jpg",
+    "last_seen": "2598",
+    "name": "Karolus",
+    "rank": "Assessor",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/karolus",
+    "summary": "An arrogant and xenophobic Assessor with an unparalleled eye for detail, working alongside Kerber to uncover the secret of the Black Judges.",
+    "url_name": "karolus"
+}

@@ -1,0 +1,44 @@
+{
+    "area_of_operations": "Borca, Cathedral City",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/amos",
+            "image_name": "anabaptists.png",
+            "name": "Amos"
+        },
+        {
+            "href": "/world/icons/anabaptists/nuntius",
+            "image_name": "icons-anabaptists-nuntius.jpg",
+            "name": "Nuntius"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/anabaptists/trachees",
+            "image_name": "icons-anabaptists-trachees.jpg",
+            "name": "Trachees"
+        },
+        {
+            "href": "/world/icons/chroniclers/modus",
+            "image_name": "icons-chroniclers-modus.jpg",
+            "name": "Modus"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Borca",
+    "image_name": "icons-anabaptists-orphid.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3a55266788/icons-anabaptists-orphid.jpg",
+    "last_seen": "2595",
+    "name": "Orphid",
+    "rank": "Baptist",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/orphid",
+    "summary": "One of the eight Baptists leading the Cult. She works against Amos\u2019 cult of personality, and cooperates with Modus in his search through the archives beneath Cathedral City.",
+    "url_name": "orphid"
+}

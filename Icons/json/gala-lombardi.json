@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/clanners/gala-lombardi",
+    "bio_url": "https://degenesis.com/world/bio/clanners/gala-lombardi",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/ennio-benesato",
+            "image_name": "icons-clanners-ennio-benesato.jpg",
+            "name": "Ennio Benesato"
+        },
+        {
+            "href": "/world/icons/clanners/vespaccio-lombardi",
+            "image_name": "icons-clanners-vespaccio-lombardi.jpg",
+            "name": "Vespaccio Lombardi"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-gala-lombardi.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c69af9e7a7/icons-clanners-gala-lombardi.jpg",
+    "last_seen": "2596",
+    "name": "Gala Lombardi",
+    "rank": "Lombardi",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/gala-lombardi",
+    "summary": "The current governor of Lucatore, Ennio Benesato\u2019s widow, and Vespaccio Lombardi\u2019s daughter. Known for her hatred of Anabaptists.",
+    "url_name": "gala-lombardi"
+}

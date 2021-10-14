@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/aeshma",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/aeshma",
+    "concept": "The Adventurer",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/chroniclers/echo",
+            "image_name": "icons-chroniclers-echo.jpg",
+            "name": "Echo"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-aeshma.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0feffd133b/icons-scrappers-aeshma.jpg",
+    "last_seen": "2598",
+    "name": "Aeshma",
+    "rank": "Fox",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/aeshma",
+    "summary": "She poses as a Manufacturer, operating a workshop at the foot of the Steel Monolith to recycle scrap metal. In reality, however, she works for Bosch, intercepting Chronicler radio transmissions and passing the information to the Cartel. It's only a matter of time until her carefully constructed disguise falls apart. ",
+    "url_name": "aeshma"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Purgare, Corpse",
+    "bio_href": "/world/bio/apocalyptics/callisto",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/callisto",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        },
+        {
+            "href": "/world/icons/apocalyptics/meridian",
+            "image_name": "icons-apocalyptics-meridian.jpg",
+            "name": "Meridian"
+        },
+        {
+            "href": "/world/icons/apocalyptics/sabata",
+            "image_name": "icons-apocalyptics-sabata.jpg",
+            "name": "Sabata"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Franka",
+    "image_name": "icons-apocalyptics-callisto.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ba32b5767e/icons-apocalyptics-callisto.jpg",
+    "last_seen": "2596",
+    "name": "Callisto",
+    "rank": "Raven",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/callisto",
+    "summary": "One of three leaders of the Black Flock, an Apocalyptic pirate organization. Suspects that she is Rattler\u2019s sister, and has abandoned her Flock to search for the truth.",
+    "url_name": "callisto"
+}

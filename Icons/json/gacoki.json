@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scourgers/gacoki",
+    "bio_url": "https://degenesis.com/world/bio/scourgers/gacoki",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/scourgers/mbeke",
+            "image_name": "icons-mbeke.jpg",
+            "name": "Mbeke"
+        },
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        }
+    ],
+    "cult": "Scourgers",
+    "culture": "Africa",
+    "image_name": "icons-scourgers-gacoki.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0670cebf30/icons-scourgers-gacoki.jpg",
+    "last_seen": "2598",
+    "name": "Gacoki",
+    "rank": "Kifo",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scourgers/gacoki",
+    "summary": "A Scourger Kifo in a perilous position, walking a tightrope of alliances and secrets. He works as a bodyguard for the Dust Riders in the Flotsam, while also acting on behalf of the Chroniclers to spy on Wakili, the Neolibyan Ambassador. His web of lies is fragile, and the slightest upset will lead to disaster. ",
+    "url_name": "gacoki"
+}

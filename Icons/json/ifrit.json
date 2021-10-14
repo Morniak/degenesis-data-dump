@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/jehammedans/ifrit",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/ifrit",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/eris",
+            "image_name": "icons-jehammedans-eris.jpg",
+            "name": "Eris"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Balkhan",
+    "image_name": "icons-jehammedans-ifrit.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/35da6f3a71/icons-jehammedans-ifrit.jpg",
+    "last_seen": "2597",
+    "name": "Ifrit",
+    "rank": "Blood of Aries",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/ifrit",
+    "summary": "The lamb within him has died and been reborn as a ram. He is a manifestation of Aries, and sinners will feel his wrath.",
+    "url_name": "ifrit"
+}

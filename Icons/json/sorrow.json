@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/sorrow",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/sorrow",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/cinnamon",
+            "image_name": "icons-clanners-cinnamon.jpg",
+            "name": "Cinnamon"
+        },
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        },
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-sorrow.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/853beae43e/icons-scrappers-sorrow.jpg",
+    "last_seen": "2598",
+    "name": "Sorrow",
+    "rank": "Mechanist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/sorrow",
+    "summary": "In a city as large as Justitian, transporting messages and deliveries from one end to the other is no easy task. This is where Sorrow and her motorized delivery buggy come in - no one can get a package to its destination faster than her. ",
+    "url_name": "sorrow"
+}

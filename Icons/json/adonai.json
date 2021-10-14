@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/jehammedans/adonai",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/adonai",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/eris",
+            "image_name": "icons-jehammedans-eris.jpg",
+            "name": "Eris"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Hybrispania",
+    "image_name": "icons-jehammedans-adonai.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f4026f56c0/icons-jehammedans-adonai.jpg",
+    "last_seen": "2596",
+    "name": "Adonai",
+    "rank": "Iconide",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/adonai",
+    "summary": "A wandering Iconide and the last known guardian of Jehammed\u2019s Star.",
+    "url_name": "adonai"
+}

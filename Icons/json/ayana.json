@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Hybrispania",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/jaafar",
+            "image_name": "neolibyans.png",
+            "name": "Jaafar"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Hybrispania",
+    "image_name": "icons-clanners-ayana.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c03bfbcfec/icons-clanners-ayana.jpg",
+    "last_seen": "2595",
+    "name": "Ayana",
+    "rank": "Guerrero",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/ayana",
+    "summary": "The scarred leader of the Hybrispanian Guerreros. Thousands follow her into battle to reconquer the homeland and wage war on the African invaders.",
+    "url_name": "ayana"
+}

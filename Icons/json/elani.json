@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Perpignan",
+    "concept": "The Healer",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/veracq",
+            "image_name": "icons-clanners-veracq.jpg",
+            "name": "Veracq"
+        },
+        {
+            "href": "/world/icons/scourgers/assegai",
+            "image_name": "icons-scourgers-assegai.jpg",
+            "name": "Assegai"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-elani.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c0265b3529/icons-neolibyans-elani.jpg",
+    "last_seen": "2596",
+    "name": "Elani",
+    "rank": "Consul",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/elani",
+    "summary": "The Consul of Perpignan. She is the daughter of an Anubian, and the peacekeeper of the Pyrenees.",
+    "url_name": "elani"
+}

@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Cathedral City",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/orphid",
+            "image_name": "icons-anabaptists-orphid.jpg",
+            "name": "Orphid"
+        },
+        {
+            "href": "/world/icons/anabaptists/trachees",
+            "image_name": "icons-anabaptists-trachees.jpg",
+            "name": "Trachees"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-modus.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5e6a5e6363/icons-chroniclers-modus.jpg",
+    "last_seen": "2596",
+    "name": "Modus",
+    "rank": "Fragment",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/modus",
+    "summary": "A Fragment and secret agent of the Central Cluster. Under the guise of a peace mission, he is trying to retrieve the original Streamer archives locked away in the vaults of Cathedral City.",
+    "url_name": "modus"
+}

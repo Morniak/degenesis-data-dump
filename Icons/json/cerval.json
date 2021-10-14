@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/spitalians/cerval",
+    "bio_url": "https://degenesis.com/world/bio/spitalians/cerval",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/estrelle-arnot",
+            "image_name": "icons-judges-estrelle.jpg",
+            "name": "Estrelle Arnot"
+        },
+        {
+            "href": "/world/icons/spitalians/ines-devant",
+            "image_name": "icons-spitalians-ines-devant.jpg",
+            "name": "Ines Devant"
+        },
+        {
+            "href": "/world/icons/spitalians/sabine-perret",
+            "image_name": "icons-spitalians-sabine-perret.jpg",
+            "name": "Sabine Perret"
+        },
+        {
+            "href": "/world/icons/anubians/atonke",
+            "image_name": "icons-anubians-atonke.jpg",
+            "name": "Atonke"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Franka",
+    "image_name": "icons-spitalians-cerval.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/2ce7483efe/icons-spitalians-cerval.jpg",
+    "last_seen": "2598",
+    "name": "Cerval",
+    "rank": "Preservist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/cerval",
+    "summary": "A Preservist who dabbles in the supernatural, Cerval suspects that the rebirth of the Pheromancer King Markurant is close at hand. He has tracked his suspects to Justitian, where he attempts to hunt down the King and his mother.",
+    "url_name": "cerval"
+}

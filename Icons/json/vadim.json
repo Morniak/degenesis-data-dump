@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/apocalyptics/darwin",
+            "image_name": "icons-apocalyptics-darwin.jpg",
+            "name": "Darwin"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-vadim.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/139dfc3bee/icons-apocalyptics-vadim.jpg",
+    "last_seen": "2598",
+    "name": "Vadim",
+    "rank": "Seagull",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/vadim",
+    "summary": "The lover and bodyguard of Vulco, and a master knife fighter. During the assault on the Sun Flock's nest, he bit his own tongue out to avoid giving up any secrets - leaving him mute. ",
+    "url_name": "vadim"
+}

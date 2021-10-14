@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scrappers/argen",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/argen",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-argen.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f3692c786b/icons-scrappers-argen.jpg",
+    "last_seen": "2598",
+    "name": "Argen",
+    "rank": "Cartel Thug",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/argen",
+    "summary": "One of the Cartel's spotters, someone who keeps an eye out for valuable artifacts so the gang's Officers can get to it before the Chroniclers do. Argen sees himself as critical in his organisation's hierarchy, a crucial member who is irreplaceable. In reality, he's nothing more than a cog in Bosch's machine. ",
+    "url_name": "argen"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/scourgers/mbeke",
+    "bio_url": "https://degenesis.com/world/bio/scourgers/mbeke",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/scourgers/gacoki",
+            "image_name": "icons-scourgers-gacoki.jpg",
+            "name": "Gacoki"
+        },
+        {
+            "href": "/world/icons/neolibyans/bejide",
+            "image_name": "icons-neolibyans-bejide.jpg",
+            "name": "Bejide"
+        },
+        {
+            "href": "/world/icons/hellvetics/bastille",
+            "image_name": "icons-hellvetics-bastille.jpg",
+            "name": "Bastille"
+        }
+    ],
+    "cult": "Scourgers",
+    "culture": "Africa",
+    "image_name": "icons-mbeke.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a863dc93e2/icons-mbeke.jpg",
+    "last_seen": "2598",
+    "name": "Mbeke",
+    "rank": "Dumisai",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scourgers/mbeke",
+    "summary": "The bodyguard of the Magnate Bejide, tearing Justitian\u2019s Downtown apart in the hunt for a pair of escaped Apocalyptics. He despises this cold land, and would like nothing less than to finish his task and return home. His only solace is the Scourger, Gacoki, who works at the Flotsam. ",
+    "url_name": "mbeke"
+}

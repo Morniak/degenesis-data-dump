@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Righteous",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/oswald-kezsler",
+            "image_name": "icons-spitalians-kezsler.jpg",
+            "name": "Oswald Keszler"
+        },
+        {
+            "href": "/world/icons/hellvetics/gustav-bloch",
+            "image_name": "icons-hellvetics-gustav-bloch.jpg",
+            "name": "Gustav Bloch"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-echo.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9810bda1f4/icons-chroniclers-echo.jpg",
+    "last_seen": "2598",
+    "name": "Echo",
+    "rank": "Agent",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/echo",
+    "summary": "A spy for the Cluster, using his specially tuned equipment to monitor radio transmissions and filter them for important data. He has fallen under the influence of Oswald Keszler, and is now a pawn in the Hippocrat's schemes. ",
+    "url_name": "echo"
+}

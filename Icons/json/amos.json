@@ -1,0 +1,49 @@
+{
+    "area_of_operations": "Franka, Bassham",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/anabaptists/orphid",
+            "image_name": "icons-anabaptists-orphid.jpg",
+            "name": "Orphid"
+        },
+        {
+            "href": "/world/icons/anabaptists/vincent",
+            "image_name": "icons-anabaptists-vincent.jpg",
+            "name": "Vincent"
+        },
+        {
+            "href": "/world/icons/anabaptists/trachees",
+            "image_name": "icons-anabaptists-trachees.jpg",
+            "name": "Trachees"
+        },
+        {
+            "href": "/world/icons/anabaptists/nuntius",
+            "image_name": "icons-anabaptists-nuntius.jpg",
+            "name": "Nuntius"
+        },
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Franka",
+    "image_name": "anabaptists.png",
+    "image_url": "https://img2.storyblok.com/500x0/filters:quality(90)/f/72501/500x500/c4448a8818/anabaptists.png",
+    "last_seen": "2595",
+    "name": "Amos",
+    "rank": "Baptist",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/amos",
+    "summary": "One of the eight Baptists leading the Anabaptist Cult. Commands the forces in Bassham and is almost universally revered.",
+    "url_name": "amos"
+}

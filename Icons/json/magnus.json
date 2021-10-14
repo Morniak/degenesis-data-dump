@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Tumbler",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/token",
+            "image_name": "icons-token.jpg",
+            "name": "Token"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-magnus.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2002/fd74d318a8/icons-magnus.jpg",
+    "last_seen": "2595",
+    "name": "Magnus",
+    "rank": "City Judge",
+    "source": [
+        "Katharsys"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/magnus",
+    "summary": "A dim-witted and helpless Judge, tasked with the protection of a small trading post on the borders of the Protectorate.",
+    "url_name": "magnus"
+}

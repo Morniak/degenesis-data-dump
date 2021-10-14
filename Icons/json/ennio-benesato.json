@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/clanners/ennio-benesato",
+    "bio_url": "https://degenesis.com/world/bio/clanners/ennio-benesato",
+    "concept": "The Disciple",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        },
+        {
+            "href": "/world/icons/clanners/gala-lombardi",
+            "image_name": "icons-clanners-gala-lombardi.jpg",
+            "name": "Gala Lombardi"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-ennio-benesato.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d55e9c9d82/icons-clanners-ennio-benesato.jpg",
+    "last_seen": "2596",
+    "name": "Ennio Benesato",
+    "rank": "Benesato",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/ennio-benesato",
+    "summary": "Altair the Baptist\u2019s brother, former governor of Lucatore, and deceased husband of Gala Lombardi. Last elder of the original Benesato Clan.",
+    "url_name": "ennio-benesato"
+}

@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Perpignan",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/elani",
+            "image_name": "icons-neolibyans-elani.jpg",
+            "name": "Elani"
+        },
+        {
+            "href": "/world/icons/scourgers/assegai",
+            "image_name": "icons-scourgers-assegai.jpg",
+            "name": "Assegai"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-veracq.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2480x2480/3e25c4371d/icons-clanners-veracq.jpg",
+    "last_seen": "2596",
+    "name": "Veracq",
+    "rank": "Bordenoir",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/veracq",
+    "summary": "Fist of the Bordenoir, and nominally the leader of Perpignan - although he shares his throne with the Jehammedans and the Neolibyans.",
+    "url_name": "veracq"
+}

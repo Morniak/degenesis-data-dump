@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/eliza",
+            "image_name": "icons-chroniclers-eliza.jpg",
+            "name": "Eliza"
+        },
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/chroniclers/membrane",
+            "image_name": "icons-chroniclers-membrane.jpg",
+            "name": "Membrane"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-alias.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/32e950cf71/icons-chroniclers-alias.jpg",
+    "last_seen": "2598",
+    "name": "Alias",
+    "rank": "Fragment",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/alias",
+    "summary": "Alias is a watchful eye gazing out from the depths of the Cluster across the entire city of Justitian, thousands of camera lenses and drones feeding images directly to his helmet. Alias is the human mind most closely linked with the Stream, and defends it against hacking attempts or infiltration. ",
+    "url_name": "alias"
+}

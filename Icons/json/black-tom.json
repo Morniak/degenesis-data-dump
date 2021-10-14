@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/neolibyans/black-tom",
+    "bio_url": "https://degenesis.com/world/bio/neolibyans/black-tom",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/papa-chicco",
+            "image_name": "icons-clanners-papa-chicco.jpg",
+            "name": "Papa Chicco"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-black-tom.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b2a5ce6d23/icons-neolibyans-black-tom.jpg",
+    "last_seen": "2595",
+    "name": "Black Tom",
+    "rank": "Merchant",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/black-tom",
+    "summary": "He was kidnapped as a child by Papa Chicco, then grew up among the Scrappers in Syracuse. He traveled across Purgare to take revenge and kill the one who ruined his life.",
+    "url_name": "black-tom"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/phoebe",
+            "image_name": "icons-apocalyptics-phoebe.jpg",
+            "name": "Phoebe"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-ezra.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6bdabbdfec/icons-apocalyptics-ezra.jpg",
+    "last_seen": "2598",
+    "name": "Ezra",
+    "rank": "Owl",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/ezra",
+    "summary": "A cunning Owl, and one of the first to join the Splinter Hawks. Ezra has been hunting for powerful allies to help secure his new Flock, and protect it from retaliation from the Carrion Birds. He's running out of time. ",
+    "url_name": "ezra"
+}

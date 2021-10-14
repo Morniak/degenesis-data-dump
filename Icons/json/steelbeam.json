@@ -1,0 +1,49 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/clanners/atama",
+            "image_name": "icons-clanners-atama.jpg",
+            "name": "Atama"
+        },
+        {
+            "href": "/world/icons/chroniclers/deslect",
+            "image_name": "icons-chroniclers-deselect.jpg",
+            "name": "Deselect"
+        },
+        {
+            "href": "/world/icons/clanners/cinnamon",
+            "image_name": "icons-clanners-cinnamon.jpg",
+            "name": "Cinnamon"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-steelbeam.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/60b17dcfb4/icons-scrappers-steelbeam.jpg",
+    "last_seen": "2598",
+    "name": "Steelbeam",
+    "rank": "Cave Bear",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/steelbeam",
+    "summary": "The last surviving member of the legendary Bear Brothers, a trio of Scrappers known far beyond the borders of Borca. He has returned to enact his vengeance on the Scalar who caused the deaths of his brothers. Nullify.",
+    "url_name": "steelbeam"
+}

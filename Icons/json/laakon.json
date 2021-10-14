@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/laakon",
+    "bio_url": "https://degenesis.com/world/bio/judges/laakon",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/rutgar",
+            "image_name": "icons-judges-rutgar.jpg",
+            "name": "Rutgar"
+        },
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/chroniclers/generation",
+            "image_name": "icons-chroniclers-generation.jpg",
+            "name": "Generation"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "0031-laakon-final.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/12e8c457b3/0031-laakon-final.jpg",
+    "last_seen": "2598",
+    "name": "Laakon",
+    "rank": "Senator",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/laakon",
+    "summary": "A Senator with a ruthless drive to reform the Judges and save Justitian the only way he knows how: toppling Archot and becoming Supreme Judge himself.",
+    "url_name": "laakon"
+}

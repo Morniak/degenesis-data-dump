@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/spitalians/elias-ramon",
+            "image_name": "icons-spitalians-elias-ramon.jpg",
+            "name": "Elias Ramon"
+        },
+        {
+            "href": "/world/icons/spitalians/joseph-heiden",
+            "image_name": "icons-spitalians-joseph-heiden.jpg",
+            "name": "Joseph Heiden"
+        },
+        {
+            "href": "/world/icons/apocalyptics/danka",
+            "image_name": "icons-apocalyptics-danka.jpg",
+            "name": "Danka"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-elliot-heilkamp.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0a15633a76/icons-spitalians-elliot-heilkamp.jpg",
+    "last_seen": "2598",
+    "name": "Elliot Heilkamp",
+    "rank": "Hygienist",
+    "source": [
+        "Justitan: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/elliot-heilkamp",
+    "summary": "The Spitalian in charge of the Office of Hygienics in Justitian, responsible for dictating the standards of cleanliness for its citizens. He was propelled to towering heights by the Great Purge, but since then has become a jealous and insecure troublemaker. ",
+    "url_name": "elliot-heilkamp"
+}

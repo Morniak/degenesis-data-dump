@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/armand-malpierre",
+            "image_name": "icons-clanners-armand-malpierre.jpg",
+            "name": "Armand Malpierre"
+        },
+        {
+            "href": "/world/icons/clanners/vericon",
+            "image_name": "icons-clanners-vericon.jpg",
+            "name": "Vericon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-zoe-morceau.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/71a50ce7e9/icons-clanners-zoe-morceau.jpg",
+    "last_seen": "2596",
+    "name": "Zoe Morceau",
+    "rank": "Resistance",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/zoe-morceau",
+    "summary": "General of the Resistance. Instigated a coup to overthrow the Neolybians during the Siege of Toulon.",
+    "url_name": "zoe-morceau"
+}

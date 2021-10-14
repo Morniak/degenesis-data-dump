@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Disciple",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/joerdis",
+            "image_name": "icons-scrappers-joerdis.jpg",
+            "name": "Joerdis"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-hostin.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a5439b4ba2/icons-scrappers-hostin.jpg",
+    "last_seen": "2598",
+    "name": "Hostin",
+    "rank": "Mouse",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/hostin",
+    "summary": "The boy once had aspirations of venturing out in the wastelands, but a collapsing tunnel put an end to his dreams. Now, he roams the streets of Justitian vicariously through the camera of his drone buggy, recording everything it sees - recordings which the Chroniclers are eager to acquire. ",
+    "url_name": "hostin"
+}

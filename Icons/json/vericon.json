@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/clanners/vericon",
+    "bio_url": "https://degenesis.com/world/bio/clanners/vericon",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/zoe-morceau",
+            "image_name": "icons-clanners-zoe-morceau.jpg",
+            "name": "Zoe Morceau"
+        },
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-vericon.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ab14fca6e6/icons-clanners-vericon.jpg",
+    "last_seen": "2596",
+    "name": "Vericon",
+    "rank": "Touloni",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/vericon",
+    "summary": "The Patriarch of the Touloni Clan and commander of the Beau Monde city militia.",
+    "url_name": "vericon"
+}

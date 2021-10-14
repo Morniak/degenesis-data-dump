@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/clanners/malinesse",
+    "bio_url": "https://degenesis.com/world/bio/clanners/malinesse",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/dr-vega",
+            "image_name": "icons-spitalians-vega.jpg",
+            "name": "Doctor Vega"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-malinesse.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/20a110f22d/icons-clanners-malinesse.jpg",
+    "last_seen": "2597",
+    "name": "Malinesse",
+    "rank": "Ganarid",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/malinesse",
+    "summary": "Ripped from the embrace of Ganaress, she wanders Briton in search for something else to serve. In Brest, she has found it.",
+    "url_name": "malinesse"
+}

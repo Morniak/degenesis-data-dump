@@ -1,0 +1,51 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/clanners/atama",
+    "bio_url": "https://degenesis.com/world/bio/clanners/atama",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/scrappers/steelbeam",
+            "image_name": "icons-scrappers-steelbeam.jpg",
+            "name": "Steelbeam"
+        },
+        {
+            "href": "/world/icons/clanners/cinnamon",
+            "image_name": "icons-clanners-cinnamon.jpg",
+            "name": "Cinnamon"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        },
+        {
+            "href": "/world/icons/apocalyptics/darwin",
+            "image_name": "icons-apocalyptics-darwin.jpg",
+            "name": "Darwin"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-atama.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d08a291de2/icons-clanners-atama.jpg",
+    "last_seen": "2598",
+    "name": "Atama",
+    "rank": "Champion",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/atama",
+    "summary": "The Red Bull. The Unbreakable. The Savage Without a Past. Atama is a legendary pit fighter, with a spotless track record. However, he is more than just a brainless warrior - in his lab in Justitian he creates potent anabolic agents, capable of turning even a pathetic weakling into a muscle-bound colossus. ",
+    "url_name": "atama"
+}

@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/jehammedans/eris",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/eris",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/adonai",
+            "image_name": "icons-jehammedans-adonai.jpg",
+            "name": "Adonai"
+        },
+        {
+            "href": "/world/icons/jehammedans/ifrit",
+            "image_name": "icons-jehammedans-ifrit.jpg",
+            "name": "Ifrit"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Hybrispania",
+    "image_name": "icons-jehammedans-eris.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/862a72c338/icons-jehammedans-eris.jpg",
+    "last_seen": "2597",
+    "name": "Eris",
+    "rank": "Delilah",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/eris",
+    "summary": "A black sheep cast out from her tribe for daring to question Jehammed. She is fleeing to the end of the earth to escape divine retribution.",
+    "url_name": "eris"
+}

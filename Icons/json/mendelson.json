@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/joseph-heiden",
+            "image_name": "icons-spitalians-joseph-heiden.jpg",
+            "name": "Joseph Heiden"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-mendelson.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5d11c01434/icons-scrappers-mendelson.jpg",
+    "last_seen": "2598",
+    "name": "Mendelson",
+    "rank": "Scavenger",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/mendelson",
+    "summary": "Mendelson is a slouch, trapped within a frail body and punished with a simple mind. He has moved from one blunder to the next, barely making a living. For a brief moment, he had found a suitable task, supplying a strange Spitalian with Burn. Then the Great Cleanse ruined everything. ",
+    "url_name": "mendelson"
+}

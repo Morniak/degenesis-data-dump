@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/cerval",
+            "image_name": "icons-spitalians-cerval.jpg",
+            "name": "Cerval"
+        },
+        {
+            "href": "/world/icons/spitalians/ines-devant",
+            "image_name": "icons-spitalians-ines-devant.jpg",
+            "name": "Ines Devant"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Franka",
+    "image_name": "icons-spitalians-sabine-perret.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f4d535472e/icons-spitalians-sabine-perret.jpg",
+    "last_seen": "2598",
+    "name": "Sabine Perret",
+    "rank": "Famulancer",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/sabine-perret",
+    "summary": "Her mission to the shell of Markurant's Ziggurath ended in disaster. Sabine has been chosen to be the Pheromancer King's midwife, and searches for him at night in the Defiler Streets, following his pheromone trail. ",
+    "url_name": "sabine-perret"
+}

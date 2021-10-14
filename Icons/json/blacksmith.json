@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Tumbler",
+    "bio_href": "/world/bio/scrappers/blacksmith",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/blacksmith",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/nullify",
+            "image_name": "icons-nullify.jpg",
+            "name": "Nullify"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/apocalyptics/giada",
+            "image_name": "icons-giada.jpg",
+            "name": "Giada"
+        },
+        {
+            "href": "/world/icons/chroniclers/case",
+            "image_name": "icons-case.jpg",
+            "name": "Case"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-blacksmith.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c780827b6f/icons-blacksmith.jpg",
+    "last_seen": "2595",
+    "name": "Blacksmith",
+    "rank": "Cave Bear",
+    "source": [
+        "Katharsys"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/blacksmith",
+    "summary": "A legendary Cave Bear, and youngest of the three siblings called the Bear Brothers. He possessed incredible strength and stamina, but died after becoming a pawn in one of the Scalar Nullify\u2019s games.",
+    "url_name": "blacksmith"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Africa",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/darweshi",
+            "image_name": "icons-neolibyans-darweshi.jpg",
+            "name": "Darweshi"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-ezenachi.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9ba5ef23de/icons-neolibyans-ezenachi.jpg",
+    "last_seen": "2595",
+    "name": "Ezenachi",
+    "rank": "Merchant",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/ezenachi",
+    "summary": "Ezenachi is a master saboteur who destroys the enterprises of his enemies by ruining them economically from within.",
+    "url_name": "ezenachi"
+}

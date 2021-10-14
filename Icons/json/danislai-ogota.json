@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Franka, Southern Coast",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/khaleb-ogota",
+            "image_name": "icons-clanners-khaleb-ogota.jpg",
+            "name": "Khaleb Ogota"
+        },
+        {
+            "href": "/world/icons/clanners/heza-gotokai",
+            "image_name": "icons-clanners-heza-gotokai.jpg",
+            "name": "Heza Gotokai"
+        },
+        {
+            "href": "/world/icons/clanners/ferhat-the-abhorred",
+            "image_name": "icons-clanners-ferhat.jpg",
+            "name": "Ferhat, The Abhorred"
+        },
+        {
+            "href": "/world/icons/judges/laakon",
+            "image_name": "0031-laakon-final.jpg",
+            "name": "Laakon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-danislai-ogota.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a9521b1100/icons-clanners-danislai-ogota.jpg",
+    "last_seen": "2598",
+    "name": "Danislai Ogota",
+    "rank": "Steel Master",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/danislai-ogota",
+    "summary": "The Steel Masters are on the brink of collapse. Their legacy has been lost, and only shame remains. From his sanctuary at the crest of the Steel Monolith, the master craftsman prays to the artifacts of his ancestors and hopes for inspiration.",
+    "url_name": "danislai-ogota"
+}

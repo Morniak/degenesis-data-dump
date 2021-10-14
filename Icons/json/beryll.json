@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/goslar",
+            "image_name": "icons-anabaptists-goslar.jpg",
+            "name": "Goslar"
+        },
+        {
+            "href": "/world/icons/apocalyptics/ivy",
+            "image_name": "icons-apocalyptics-ivy.jpg",
+            "name": "Ivy"
+        },
+        {
+            "href": "/world/icons/chroniclers/eliza",
+            "image_name": "icons-chroniclers-eliza.jpg",
+            "name": "Eliza"
+        }
+    ],
+    "cult": "Cults",
+    "from_hell": "Recombination Group",
+    "image_name": "icons-sleepers-beryll.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fa6bc6a877/icons-sleepers-beryll.jpg",
+    "last_seen": "2598",
+    "name": "Beryll",
+    "rank": "Cascade 600",
+    "source": [
+        "Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/sleepers/beryll",
+    "summary": "A wounded Sleeper with amnesia, isolated in Justitian. Until he is healed he has to hide in an Ascetic\u2019s farm, or face his death at the hands of the Chroniclers...",
+    "url_name": "beryll"
+}

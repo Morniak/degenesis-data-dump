@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Briton",
+    "bio_href": "/world/bio/scrappers/parel",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/parel",
+    "concept": "The Adventurer",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/garlene",
+            "image_name": "icons-scrappers-garlene.jpg",
+            "name": "Garlene"
+        },
+        {
+            "href": "/world/icons/chroniclers/ampere",
+            "image_name": "icons-chroniclers-ampere.jpg",
+            "name": "Ampere"
+        },
+        {
+            "href": "/world/icons/jehammedans/eris",
+            "image_name": "icons-jehammedans-eris.jpg",
+            "name": "Eris"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Franka",
+    "image_name": "icons-scrappers-parel.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/fd16dd123e/icons-scrappers-parel.jpg",
+    "last_seen": "2597",
+    "name": "Parel",
+    "rank": "Manufacturer",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/parel",
+    "summary": "A womanising Salt Wolf in Brest who dives down into a forgotten subsea world with his submersible, Fianc\u00e9.",
+    "url_name": "parel"
+}

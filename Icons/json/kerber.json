@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/judges/kerber",
+    "bio_url": "https://degenesis.com/world/bio/judges/kerber",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/karolus",
+            "image_name": "0039-karolus-final.jpg",
+            "name": "Karolus"
+        },
+        {
+            "href": "/world/icons/judges/levantis",
+            "image_name": "icons-judges-levantis.jpg",
+            "name": "Levantis"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "0038-kerber-final.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f5e0325e05/0038-kerber-final.jpg",
+    "last_seen": "2598",
+    "name": "Kerber",
+    "rank": "Executioner",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/kerber",
+    "summary": "A solitary Executioner renowned for his brutal effectiveness punishing criminals, now forced to cooperate on a case bigger than any other.",
+    "url_name": "kerber"
+}

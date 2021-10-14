@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Purgare, Corpse",
+    "bio_href": "/world/bio/apocalyptics/sabata",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/sabata",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/meridian",
+            "image_name": "icons-apocalyptics-meridian.jpg",
+            "name": "Meridian"
+        },
+        {
+            "href": "/world/icons/apocalyptics/callisto",
+            "image_name": "icons-apocalyptics-callisto.jpg",
+            "name": "Callisto"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Africa",
+    "image_name": "icons-apocalyptics-sabata.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/68625f2680/icons-apocalyptics-sabata.jpg",
+    "last_seen": "2596",
+    "name": "Sabata",
+    "rank": "Buzzard",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/sabata",
+    "summary": "One of three leaders of the Black Flock, an Apocalyptic pirate organization. Died during the onslaught in Toulon.",
+    "url_name": "sabata"
+}

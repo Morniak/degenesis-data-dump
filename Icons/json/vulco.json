@@ -1,0 +1,54 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vadim",
+            "image_name": "icons-apocalyptics-vadim.jpg",
+            "name": "Vadim"
+        },
+        {
+            "href": "/world/icons/apocalyptics/argus",
+            "image_name": "icons-apocalyptics-argus.jpg",
+            "name": "Argus"
+        },
+        {
+            "href": "/world/icons/apocalyptics/darwin",
+            "image_name": "icons-apocalyptics-darwin.jpg",
+            "name": "Darwin"
+        },
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/neolibyans/bejide",
+            "image_name": "icons-neolibyans-bejide.jpg",
+            "name": "Bejide"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-vulco.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/99aa475e53/icons-apocalyptics-vulco.jpg",
+    "last_seen": "2598",
+    "name": "Vulco",
+    "rank": "Albatross",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/vulco",
+    "summary": "An upstart Albatross in a hostile land. Vulco is the leader of the Dust Riders, and new owner of the Flotsam after taking it from the Carrion Birds in a cunning betrayal. He wants to expose the Carrion Birds' weaknesses, and return them to their former glory, at which point he'll offer himself up as their new leader. ",
+    "url_name": "vulco"
+}

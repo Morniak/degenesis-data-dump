@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/sabine-perret",
+            "image_name": "icons-spitalians-sabine-perret.jpg",
+            "name": "Sabine Perret"
+        },
+        {
+            "href": "/world/icons/spitalians/cerval",
+            "image_name": "icons-spitalians-cerval.jpg",
+            "name": "Cerval"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Franka",
+    "image_name": "icons-spitalians-ines-devant.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/3943b754f2/icons-spitalians-ines-devant.jpg",
+    "last_seen": "2598",
+    "name": "Ines Devant",
+    "rank": "Anaesthesiologist",
+    "source": [
+        "Justian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/ines-devant",
+    "summary": "After an expedition she sent to Markurant's Ziggurath failed, Ines followed the last survivor to Justitian, believing the Pheromancer King to have had some residual influence after his death - influence that may have dire consequences for the city. ",
+    "url_name": "ines-devant"
+}

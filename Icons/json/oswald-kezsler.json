@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/echo",
+            "image_name": "icons-chroniclers-echo.jpg",
+            "name": "Echo"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/judges/kant",
+            "image_name": "0033-gregor-kant-final.jpg",
+            "name": "Kant"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-kezsler.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/7449def52a/icons-spitalians-kezsler.jpg",
+    "last_seen": "2598",
+    "name": "Oswald Keszler",
+    "rank": "Hippocrat",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/oswald-kezsler",
+    "summary": "The leading Hippocrat of Justitian, who oversees all of his Cult's operations in the city. Cooperating with Consultant Grunow to investigate and stop Provost Kranzler's hidden machinations.",
+    "url_name": "oswald-kezsler"
+}

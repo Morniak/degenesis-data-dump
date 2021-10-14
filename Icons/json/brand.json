@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Pollen, Liberech",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/iridium",
+            "image_name": "icons-chroniclers-iridium.jpg",
+            "name": "Iridium"
+        },
+        {
+            "href": "/world/icons/chroniclers/eject",
+            "image_name": "icons-chroniclers-eject.jpg",
+            "name": "Eject"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Pollen",
+    "image_name": "icons-hellvetics-brand.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/553e418e28/icons-hellvetics-brand.jpg",
+    "last_seen": "2595",
+    "name": "Brand",
+    "rank": "Unknown",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/brand",
+    "summary": "A Hellvetic working in service of the Needles, helping them prepare the treacherous route of the Carbon.",
+    "url_name": "brand"
+}

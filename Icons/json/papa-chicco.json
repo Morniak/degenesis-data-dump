@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Purgare, Lucatore",
+    "bio_href": "/world/bio/clanners/papa-chicco",
+    "bio_url": "https://degenesis.com/world/bio/clanners/papa-chicco",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/neva",
+            "image_name": "icons-anabaptists-neva.jpg",
+            "name": "Neva"
+        },
+        {
+            "href": "/world/icons/neolibyans/black-tom",
+            "image_name": "icons-neolibyans-black-tom.jpg",
+            "name": "Black Tom"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Purgare",
+    "image_name": "icons-clanners-papa-chicco.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/0c8ea67944/icons-clanners-papa-chicco.jpg",
+    "last_seen": "2595",
+    "name": "Papa Chicco",
+    "rank": "Romano",
+    "source": [
+        "In Thy Blood"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/papa-chicco",
+    "summary": "The former Baron of a Romano encampment digging for gold around Lucatore, He was recruited by Neva as a hired murderer. His target: the Baptist Altair.",
+    "url_name": "papa-chicco"
+}

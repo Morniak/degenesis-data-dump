@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Borca, Protectorate",
+    "bio_href": "/world/bio/jehammedans/hakkal",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/hakkal",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/murdoch",
+            "image_name": "icons-judges-murdoch.jpg",
+            "name": "Murdoch"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Borca",
+    "image_name": "icons-jehammedans-hakkal.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/3000x3000/081d5a729c/icons-jehammedans-hakkal.jpg",
+    "last_seen": "2598",
+    "name": "Hakkal",
+    "rank": "Sword of Jehammed",
+    "source": [
+        "Last Watch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/hakkal",
+    "summary": "After his niece Senna disappeared, he followed her tracks. Hakkal will stop at nothing to bring her back home.",
+    "url_name": "hakkal"
+}

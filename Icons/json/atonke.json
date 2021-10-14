@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/cerval",
+            "image_name": "icons-spitalians-cerval.jpg",
+            "name": "Cerval"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        }
+    ],
+    "cult": "Anubians",
+    "culture": "Africa",
+    "image_name": "icons-anubians-atonke.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/371b8c06a2/icons-anubians-atonke.jpg",
+    "last_seen": "2598",
+    "name": "Atonke",
+    "rank": "Ammit",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anubians/atonke",
+    "summary": "An Ammit has arrived in Justitian, following the signs of a Pheromancer slowly coming to power in the city. He plans to hunt it down and exterminate it, but he is unaware of the dangers following in his wake. ",
+    "url_name": "atonke"
+}

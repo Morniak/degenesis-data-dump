@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/judges/archot",
+            "image_name": "icons-judges-archot-2.jpg",
+            "name": "Archot"
+        },
+        {
+            "href": "/world/icons/clanners/cinnamon",
+            "image_name": "icons-clanners-cinnamon.jpg",
+            "name": "Cinnamon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-sprenger.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ff213a1f34/icons-clanners-sprenger.jpg",
+    "last_seen": "2598",
+    "name": "Sprenger",
+    "rank": "Fire Watch Officer",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/sprenger",
+    "summary": "Without the Fire Watch, Justitian would have burned to the ground decades ago. Sprenger is a zealous member of the firefighting brigade, working tirelessly to save lives as penance for his sister's death. ",
+    "url_name": "sprenger"
+}

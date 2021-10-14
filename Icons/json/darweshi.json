@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Africa, Tripol",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/ezenachi",
+            "image_name": "icons-neolibyans-ezenachi.jpg",
+            "name": "Ezenachi"
+        }
+    ],
+    "cult": "Neolibyans",
+    "culture": "Africa",
+    "image_name": "icons-neolibyans-darweshi.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c7cf2551f4/icons-neolibyans-darweshi.jpg",
+    "last_seen": "2595",
+    "name": "Darweshi",
+    "rank": "Sheikh",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/neolibyans/darweshi",
+    "summary": "One of Africa\u2019s wealthiest Neolibyans, he owns massive estates, oil fields, plantations, and scrap yards.",
+    "url_name": "darweshi"
+}

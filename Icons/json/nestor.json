@@ -1,0 +1,51 @@
+{
+    "area_of_operations": "Borca, Protectorate",
+    "bio_href": "/world/bio/scrappers/nestor",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/nestor",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/hurlan",
+            "image_name": "icons-scrappers-hurlant.jpg",
+            "name": "Hurlant"
+        },
+        {
+            "href": "/world/icons/scrappers/deich",
+            "image_name": "icons-scrappers-deich.jpg",
+            "name": "Deich"
+        },
+        {
+            "href": "/world/icons/scrappers/eisenhauer",
+            "image_name": "icons-scrappers-eisenhauer.jpg",
+            "name": "Eisenhauer"
+        },
+        {
+            "href": "/world/icons/chroniclers/mirage",
+            "image_name": "icons-chroniclers-mirage.jpg",
+            "name": "Mirage"
+        },
+        {
+            "href": "/world/icons/judges/arcville",
+            "image_name": "icons-judges-arcville.jpg",
+            "name": "Arcville"
+        },
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-nestor.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/40ce4cf1cd/icons-scrappers-nestor.jpg",
+    "last_seen": "2596",
+    "name": "Nestor",
+    "rank": "Alpha Wolf",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/nestor",
+    "summary": "Agitator and former leader of the Iron Brothers, a Scrapper faction involved in the siege of Toulon. Fled to Borca with the incredible riches he plundered during the chaos.",
+    "url_name": "nestor"
+}

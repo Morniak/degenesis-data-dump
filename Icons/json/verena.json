@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Montpellier",
+    "bio_href": "/world/bio/anabaptists/verena",
+    "bio_url": "https://degenesis.com/world/bio/anabaptists/verena",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/fernex-the-vigilantes",
+            "image_name": "icons-clanners-fernex.jpg",
+            "name": "Fernex"
+        },
+        {
+            "href": "/world/icons/anabaptists/altair",
+            "image_name": "anabaptists_altair_itb.jpg",
+            "name": "Altair"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "icons-anabaptists-verena.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/939658f5fd/icons-anabaptists-verena.jpg",
+    "last_seen": "2596",
+    "name": "Verena",
+    "rank": "Touched",
+    "source": [
+        "In Thy Blood,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/verena",
+    "summary": "After the disaster at Lucatore, she joined the Vigilantes Fernex to unravel the secret of the seed that was given to her by the Baptist Altair.",
+    "url_name": "verena"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Rennes",
+    "bio_href": "/world/bio/spitalians/dr-vega",
+    "bio_url": "https://degenesis.com/world/bio/spitalians/dr-vega",
+    "concept": "The Heretic",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/vatenguerre",
+            "image_name": "icons-vatenguerre.jpg",
+            "name": "Vatenguerre"
+        },
+        {
+            "href": "/world/icons/spitalians/bascule",
+            "image_name": "icons-spitalians-bascule.jpg",
+            "name": "Bascule"
+        },
+        {
+            "href": "/world/icons/spitalians/charcutier",
+            "image_name": "icons-charcutier.jpg",
+            "name": "Charcutier"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Hybrispania",
+    "image_name": "icons-spitalians-vega.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/f8368049f9/icons-spitalians-vega.jpg",
+    "last_seen": "2597",
+    "name": "Doctor Vega",
+    "rank": "Epigeneticist",
+    "source": [
+        "Black Atlantic"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/dr-vega",
+    "summary": "An Epigeneticist who has seen through the political minefield of the Spitalian upper echelons. She sees the truth, and will do anything to save humanity. Anything.",
+    "url_name": "dr-vega"
+}

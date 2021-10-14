@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Tumbler",
+    "concept": "The Traveler",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-giada.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2002/759b30189b/icons-giada.jpg",
+    "last_seen": "2595",
+    "name": "Giada",
+    "rank": "Cuckoo",
+    "source": [
+        "Katharsys"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/giada",
+    "summary": "Past liaison and supporter of the legendary Cave Bear, Blacksmith.",
+    "url_name": "giada"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/hellvetics/lucia",
+    "bio_url": "https://degenesis.com/world/bio/hellvetics/lucia",
+    "concept": "The Conqueror",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/naraka",
+            "image_name": "icons-jehammedans-naraka.jpg",
+            "name": "Naraka"
+        },
+        {
+            "href": "/world/icons/hellvetics/slabon",
+            "image_name": "icons-hellvetics-slabon.jpg",
+            "name": "Slabon"
+        },
+        {
+            "href": "/world/icons/chroniclers/corium",
+            "image_name": "icons-chroniclers-corium.jpg",
+            "name": "Corium"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Purgare",
+    "image_name": "icons-hellvetics-lucia.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/b32bcf4c85/icons-hellvetics-lucia.jpg",
+    "last_seen": "2598",
+    "name": "Lucia",
+    "rank": "Sapper",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/lucia",
+    "summary": "One of Triglaw's Hellvetic agents, under the command of Adjutant Slabon. She has been sent to Justitian by her Marauder master to track down a Needle operating in the city and eliminate him. ",
+    "url_name": "lucia"
+}

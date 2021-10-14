@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Franka, Toulouse",
+    "concept": "The Creator",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/zoe-morceau",
+            "image_name": "icons-clanners-zoe-morceau.jpg",
+            "name": "Zoe Morceau"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Franka",
+    "image_name": "icons-clanners-armand-malpierre.jpg",
+    "image_url": "https://img2.storyblok.com/886x0/filters:quality(90)/f/72501/886x886/554c7517e2/icons-clanners-armand-malpierre.jpg",
+    "last_seen": "2596",
+    "name": "Armand Malpierre",
+    "rank": "Resistance",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/armand-malpierre",
+    "summary": "Marechal de Franka, Commander of the Resistance, and leader of the city of Toulouse.",
+    "url_name": "armand-malpierre"
+}

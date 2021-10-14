@@ -1,0 +1,49 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Seeker",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/bejide",
+            "image_name": "icons-neolibyans-bejide.jpg",
+            "name": "Bejide"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/apocalyptics/tolomei",
+            "image_name": "icons-apocalyptics-tolomei.jpg",
+            "name": "Tolomei"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vadim",
+            "image_name": "icons-apocalyptics-vadim.jpg",
+            "name": "Vadim"
+        },
+        {
+            "href": "/world/icons/apocalyptics/darwin",
+            "image_name": "icons-apocalyptics-darwin.jpg",
+            "name": "Darwin"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Purgare",
+    "image_name": "icons-apocalyptics-argus.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/65c498ec81/icons-apocalyptics-argus.jpg",
+    "last_seen": "2598",
+    "name": "Argus",
+    "rank": "Seagull",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/argus",
+    "summary": "A dark tunnel leads down to Argus\u2019 heart, where the sins of the past are hidden from the light of day. Long ago, he broke the pledge he made to his Albatross, leading to the destruction of his Flock. Justitian was supposed to be a new beginning, but the arrival of a familiar face in the city has him on edge. ",
+    "url_name": "argus"
+}

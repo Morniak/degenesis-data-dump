@@ -1,0 +1,34 @@
+{
+    "area_of_operations": "Justitian",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/palers/mishitchi",
+            "image_name": "icons-mishitchi.jpg",
+            "name": "Mishitchi"
+        },
+        {
+            "href": "/world/icons/palers/kreda",
+            "image_name": "icons-palers-kyklops.jpg",
+            "name": "Kreda"
+        },
+        {
+            "href": "/world/icons/chroniclers/corium",
+            "image_name": "icons-chroniclers-corium.jpg",
+            "name": "Corium"
+        }
+    ],
+    "cult": "Palers",
+    "culture": "Balkhan",
+    "image_name": "icons-palers-vesna.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4c1cdb17b8/icons-palers-vesna.jpg",
+    "last_seen": "2598",
+    "name": "Vesna",
+    "rank": "Demagogue",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/palers/vesna",
+    "summary": "The leader of a Paler Horde who has breached into Justitian's Underground, where she wages a brutal shadow war with the Chroniclers on their own turf.  ",
+    "url_name": "vesna"
+}

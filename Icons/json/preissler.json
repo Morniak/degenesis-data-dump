@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Abomination",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/clanners/vrakul",
+            "image_name": "icons-clanners-vrakul.jpg",
+            "name": "Vrakul"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-preissler.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/69b42919aa/icons-spitalians-preissler.jpg",
+    "last_seen": "2598",
+    "name": "Preissler",
+    "rank": "Preservist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/preissler",
+    "summary": "A relic of the Old School Preservist doctrine, Preissler is a battle-scarred soldier working in Justitian, helping to train Judges before they are sent to the frontlines of the Clan Wars.",
+    "url_name": "preissler"
+}

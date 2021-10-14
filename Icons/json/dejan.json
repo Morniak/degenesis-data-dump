@@ -1,0 +1,51 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/dejan",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/dejan",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hector",
+            "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+            "name": "Hector"
+        },
+        {
+            "href": "/world/icons/apocalyptics/vulco",
+            "image_name": "icons-apocalyptics-vulco.jpg",
+            "name": "Vulco"
+        },
+        {
+            "href": "/world/icons/apocalyptics/lupo",
+            "image_name": "icons-apocalyptics-lupo.jpg",
+            "name": "Lupo"
+        },
+        {
+            "href": "/world/icons/apocalyptics/joshua-the-butcher",
+            "image_name": "icons-apocalyptics-joshua.jpg",
+            "name": "Joshua, The Butcher"
+        },
+        {
+            "href": "/world/icons/apocalyptics/jade",
+            "image_name": "icons-apocalyptics-jade.jpg",
+            "name": "Jade"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-dejan.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/198f149580/icons-dejan.jpg",
+    "last_seen": "2598",
+    "name": "Dejan",
+    "rank": "Raven",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/dejan",
+    "summary": "The disgraced Raven of the Carrion Birds. He was outwitted and beaten by Vulco, Albatross of the Dust Riders.",
+    "url_name": "dejan"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/jehammedans/carmel",
+    "bio_url": "https://degenesis.com/world/bio/jehammedans/carmel",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/gileabod-ruben-abraham",
+            "image_name": "icons-gilead-ruben-abraham.jpg",
+            "name": "Gileabod Ruben Abraham"
+        },
+        {
+            "href": "/world/icons/jehammedans/baruch",
+            "image_name": "icons-jehammedans-baruch.jpg",
+            "name": "Baruch"
+        },
+        {
+            "href": "/world/icons/jehammedans/naraka",
+            "image_name": "icons-jehammedans-naraka.jpg",
+            "name": "Naraka"
+        }
+    ],
+    "cult": "Jehammedans",
+    "culture": "Borca",
+    "image_name": "icons-jehammedans-carmel.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/849284fd23/icons-jehammedans-carmel.jpg",
+    "last_seen": "2598",
+    "name": "Carmel",
+    "rank": "Immaculate",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/jehammedans/carmel",
+    "summary": "A young relative of the Prophet Gileabod Ruben Abraham. She has been sent to Justitian to act as the face of the Jehammedan Cult, and lead in her great-uncle's name. ",
+    "url_name": "carmel"
+}

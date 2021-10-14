@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/scourgers/ayubu",
+    "bio_url": "https://degenesis.com/world/bio/scourgers/ayubu",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        }
+    ],
+    "cult": "Scourgers",
+    "culture": "Africa",
+    "image_name": "icons-scourgers-ayubu.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/1cde6a1b64/icons-scourgers-ayubu.jpg",
+    "last_seen": "2596",
+    "name": "Ayubu",
+    "rank": "Dumisai",
+    "source": [
+        "The Killing Game,"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scourgers/ayubu",
+    "summary": "Warlord of the conquest of Hybrispania and a legendary Dumisai. He was asked to come to Toulon as Hamza Abubakar\u2019s military commander, where he was brutally murdered during the siege of the city.",
+    "url_name": "ayubu"
+}

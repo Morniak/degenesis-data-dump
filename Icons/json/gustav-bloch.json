@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/hellvetics/gustav-bloch",
+    "bio_url": "https://degenesis.com/world/bio/hellvetics/gustav-bloch",
+    "concept": "The Mentor",
+    "connected_to": [
+        {
+            "href": "/world/icons/hellvetics/paul-glauser",
+            "image_name": "icons-hellvetics-paul-glauser.jpg",
+            "name": "Paul Glauser"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        },
+        {
+            "href": "/world/icons/spitalians/kranzler",
+            "image_name": "icons-kranzler.jpg",
+            "name": "Kranzler"
+        },
+        {
+            "href": "/world/icons/neolibyans/wakili",
+            "image_name": "icons-neolibyans-wakili.jpg",
+            "name": "Wakili"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Borca",
+    "image_name": "icons-hellvetics-gustav-bloch.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/6b32a79af9/icons-hellvetics-gustav-bloch.jpg",
+    "last_seen": "2598",
+    "name": "Gustav Bloch",
+    "rank": "Subaltern",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/gustav-bloch",
+    "summary": "The designated representative of the Alpine Fortress in Justitian, Bloch spends his endless diplomatic meetings in a haze of boredom - he can't stand these incessant political squabbles. ",
+    "url_name": "gustav-bloch"
+}

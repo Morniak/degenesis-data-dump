@@ -1,0 +1,31 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/spitalians/wachsmann",
+    "bio_url": "https://degenesis.com/world/bio/spitalians/wachsmann",
+    "concept": "The Zealot",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/opis",
+            "image_name": "icons-clanners-opis.jpg",
+            "name": "Opis"
+        },
+        {
+            "href": "/world/icons/spitalians/charcutier",
+            "image_name": "icons-charcutier.jpg",
+            "name": "Charcutier"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-wachsmann.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/520cb870bf/icons-spitalians-wachsmann.jpg",
+    "last_seen": "2596",
+    "name": "Wachsmann",
+    "rank": "Elder",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/wachsmann",
+    "summary": "Old School Preservist and failed Commando Prime. Responsible for the disastrous Wachsmann-Lacroix expedition, but fled instead of confronting the Spital. ",
+    "url_name": "wachsmann"
+}

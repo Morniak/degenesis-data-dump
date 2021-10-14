@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Franka, Montpellier",
+    "concept": "The Defiler",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/gian-d-ecur",
+            "image_name": "icons-spitalians-gian-d-ecur.jpg",
+            "name": "Gian d\u2019Ecur"
+        },
+        {
+            "href": "/world/icons/neolibyans/atuma",
+            "image_name": "icons-neolibyans-atuma.jpg",
+            "name": "Atuma"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Pollen",
+    "image_name": "icons-spitalians-narida-woznan.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/3000x3000/aa8a08d3ec/icons-spitalians-narida-woznan.jpg",
+    "last_seen": "2596",
+    "name": "Narida Woznan",
+    "rank": "Registrar",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/narida-woznan",
+    "summary": "The Registrar for Southern Franka and the governing force of the Bastion: a large military hospital in Montpellier serving as the headquarters for the Spitalians on the Southern Coast.",
+    "url_name": "narida-woznan"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Martyr",
+    "connected_to": [
+        {
+            "href": "/world/icons/anabaptists/zamuel",
+            "image_name": "icons-anabaptists-zamuel.jpg",
+            "name": "Zamuel"
+        }
+    ],
+    "cult": "Anabaptists",
+    "culture": "Purgare",
+    "image_name": "icons-anabaptists-uriah.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/d7fc887319/icons-anabaptists-uriah.jpg",
+    "last_seen": "2598",
+    "name": "Uriah",
+    "rank": "Furor",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anabaptists/uriah",
+    "summary": "A former hero who fought side-by-side with Saint Zamuel, Uriah has now been reduced to the aging Emissary's keeper. He rages against his lot, finding solace in violence and alcohol. ",
+    "url_name": "uriah"
+}

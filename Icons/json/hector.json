@@ -1,0 +1,51 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "bio_href": "/world/bio/apocalyptics/hector",
+    "bio_url": "https://degenesis.com/world/bio/apocalyptics/hector",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/dejan",
+            "image_name": "icons-dejan.jpg",
+            "name": "Dejan"
+        },
+        {
+            "href": "/world/icons/scrappers/buto-the-bookie",
+            "image_name": "icons-scrappers-buto.jpg",
+            "name": "Buto, The Bookie"
+        },
+        {
+            "href": "/world/icons/scrappers/bosch",
+            "image_name": "icons-scrappers-bosch.jpg",
+            "name": "Bosch"
+        },
+        {
+            "href": "/world/icons/apocalyptics/danka",
+            "image_name": "icons-apocalyptics-danka.jpg",
+            "name": "Danka"
+        },
+        {
+            "href": "/world/icons/apocalyptics/mother-of-ravens",
+            "image_name": "icons-mother-of-ravens.jpg",
+            "name": "Mother of Ravens"
+        },
+        {
+            "href": "/world/icons/apocalyptics/lupo",
+            "image_name": "icons-apocalyptics-lupo.jpg",
+            "name": "Lupo"
+        }
+    ],
+    "cult": "Apocalyptics",
+    "culture": "Borca",
+    "image_name": "icons-apocalyptics-hector-the-woodpecker.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/5d59615e36/icons-apocalyptics-hector-the-woodpecker.jpg",
+    "last_seen": "2598",
+    "name": "Hector",
+    "rank": "Woodpecker",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/apocalyptics/hector",
+    "summary": "The public face of the Carrion Birds, and the one believed to be the real leader. He operates a string of popular bars and brothels across the city, and is one of the Mother of Ravens' most elevated henchmen. ",
+    "url_name": "hector"
+}

@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Visionary",
+    "connected_to": [
+        {
+            "href": "/world/icons/spitalians/oswald-kezsler",
+            "image_name": "icons-spitalians-kezsler.jpg",
+            "name": "Oswald Keszler"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "0033-gregor-kant-final.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/9c1fd6683b/0033-gregor-kant-final.jpg",
+    "last_seen": "2598",
+    "name": "Kant",
+    "rank": "Protector",
+    "source": [
+        "Justitian"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/kant",
+    "summary": "The Protector who designed and operates the Cleft in Justitian, extracting labor from the dregs of society.",
+    "url_name": "kant"
+}

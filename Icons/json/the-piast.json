@@ -1,0 +1,23 @@
+{
+    "area_of_operations": "Pollen, Wroclaw",
+    "concept": "The Ruler",
+    "connected_to": [
+        {
+            "href": "/world/icons/jehammedans/red-judith",
+            "image_name": "icons-jehammedans-red-judith.jpg",
+            "name": "Red Judith"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Pollen",
+    "image_name": "icons-clanners-the-piast.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/1825x1825/77409196c9/icons-clanners-the-piast.jpg",
+    "last_seen": "2597",
+    "name": "The Piast",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/the-piast",
+    "summary": "A powerful leader who has been watching over Wroclaw for centuries. His identity is completely unknown; some believe that he will only die when Pollen has risen back to its former glory.",
+    "url_name": "the-piast"
+}

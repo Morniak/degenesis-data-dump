@@ -1,0 +1,39 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Traditionalist",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/danislai-ogota",
+            "image_name": "icons-clanners-danislai-ogota.jpg",
+            "name": "Danislai Ogota"
+        },
+        {
+            "href": "/world/icons/clanners/heza-gotokai",
+            "image_name": "icons-clanners-heza-gotokai.jpg",
+            "name": "Heza Gotokai"
+        },
+        {
+            "href": "/world/icons/clanners/ferhat-the-abhorred",
+            "image_name": "icons-clanners-ferhat.jpg",
+            "name": "Ferhat, The Abhorred"
+        },
+        {
+            "href": "/world/icons/clanners/cinnamon",
+            "image_name": "icons-clanners-cinnamon.jpg",
+            "name": "Cinnamon"
+        }
+    ],
+    "cult": "Clanners",
+    "culture": "Borca",
+    "image_name": "icons-clanners-khaleb-ogota.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/82d7597770/icons-clanners-khaleb-ogota.jpg",
+    "last_seen": "2598",
+    "name": "Khaleb Ogota",
+    "rank": "Foreman",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/clanners/khaleb-ogota",
+    "summary": "One of the few Steel Masters who has been permitted to leave the Steel Monolith to scour the city below for resources, Khaleb understands the futility of the feud between the Grand Masters of his Clan. If only they knew what life was like down there, maybe they'd understand too.",
+    "url_name": "khaleb-ogota"
+}

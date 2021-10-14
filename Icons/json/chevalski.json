@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Disciple",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/deslect",
+            "image_name": "icons-chroniclers-deselect.jpg",
+            "name": "Deselect"
+        }
+    ],
+    "cult": "Spitalians",
+    "culture": "Borca",
+    "image_name": "icons-spitalians-chevalski.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a816a24238/icons-spitalians-chevalski.jpg",
+    "last_seen": "2598",
+    "name": "Chevalski",
+    "rank": "Pharmacist",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/spitalians/chevalski",
+    "summary": "After being sold to the Spitalians by his father, Chevalski became a Pharmacist and was assigned to the Chronicler Deselect. A follower of an ancient religion worshiping a mysterious Horse Oracle.",
+    "url_name": "chevalski"
+}

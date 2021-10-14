@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "East Borca",
+    "concept": "The Mediator ",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/iridium",
+            "image_name": "icons-chroniclers-iridium.jpg",
+            "name": "Iridium"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        }
+    ],
+    "cult": "Chroniclers",
+    "culture": "Borca",
+    "image_name": "icons-chroniclers-eject.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a0d3f23be3/icons-chroniclers-eject.jpg",
+    "last_seen": "2595",
+    "name": "Eject",
+    "rank": "Fragment",
+    "source": [
+        "Primal Punk"
+    ],
+    "source_url": "https://degenesis.com/world/icons/chroniclers/eject",
+    "summary": "A Needle, and one of the renegade Fragments of the Needle Tower Disaster. Founder of Chromium.",
+    "url_name": "eject"
+}

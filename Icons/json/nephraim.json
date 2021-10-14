@@ -1,0 +1,26 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/anubians/nephraim",
+    "bio_url": "https://degenesis.com/world/bio/anubians/nephraim",
+    "concept": "The Disciple",
+    "connected_to": [
+        {
+            "href": "/world/icons/neolibyans/hamza",
+            "image_name": "icons-neolibyans-hamza.jpg",
+            "name": "Hamza"
+        }
+    ],
+    "cult": "Anubians",
+    "culture": "Africa",
+    "image_name": "icons-anubians-nephraim.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/a0a4dc5fe3/icons-anubians-nephraim.jpg",
+    "last_seen": "2596",
+    "name": "Nephraim",
+    "rank": "Sickle",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/anubians/nephraim",
+    "summary": "Hamza\u2019s half brother and architect of the peace with the Pheromancers of the Rh\u00f4ne swamps.",
+    "url_name": "nephraim"
+}

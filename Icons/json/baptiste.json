@@ -1,0 +1,41 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/hellvetics/baptiste",
+    "bio_url": "https://degenesis.com/world/bio/hellvetics/baptiste",
+    "concept": "The Destroyer",
+    "connected_to": [
+        {
+            "href": "/world/icons/apocalyptics/rattler",
+            "image_name": "icons-apocalyptics-rattler.jpg",
+            "name": "Rattler"
+        },
+        {
+            "href": "/world/icons/apocalyptics/alabaster",
+            "image_name": "icons-apocalyptics-alabaster.jpg",
+            "name": "Alabaster"
+        },
+        {
+            "href": "/world/icons/apocalyptics/hexell",
+            "image_name": "icons-apocalyptics-hexell.jpg",
+            "name": "Hexell"
+        },
+        {
+            "href": "/world/icons/apocalyptics/ivar",
+            "image_name": "icons-apocalyptics-ivar.jpg",
+            "name": "Ivar"
+        }
+    ],
+    "cult": "Hellvetics",
+    "culture": "Franka",
+    "image_name": "icons-hellvetics-baptiste.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/77427cf455/icons-hellvetics-baptiste.jpg",
+    "last_seen": "2596",
+    "name": "Baptiste",
+    "rank": "Sapper",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/hellvetics/baptiste",
+    "summary": "A Hellvetic deserter in league with the Phoenix Rattler. He committed atrocities across Toulon during the siege of the city.",
+    "url_name": "baptiste"
+}

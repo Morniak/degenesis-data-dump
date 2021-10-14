@@ -1,0 +1,29 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Protector",
+    "connected_to": [
+        {
+            "href": "/world/icons/chroniclers/deslect",
+            "image_name": "icons-chroniclers-deselect.jpg",
+            "name": "Deselect"
+        },
+        {
+            "href": "/world/icons/chroniclers/impulse",
+            "image_name": "icons-chronicelrs-impulse.jpg",
+            "name": "Impulse"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-zander.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/ce863283e3/icons-scrappers-zander.jpg",
+    "last_seen": "2598",
+    "name": "Zander",
+    "rank": "Legend",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/zander",
+    "summary": "Two years ago, he stumbled across an incredible artifact out in the wastelands, and the Chroniclers paid him an immense sum for it. However, all that his vast wealth has done is send him into a paranoia-induced panic. ",
+    "url_name": "zander"
+}

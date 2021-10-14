@@ -1,0 +1,24 @@
+{
+    "area_of_operations": "Borca, Justitian",
+    "concept": "The Chosen",
+    "connected_to": [
+        {
+            "href": "/world/icons/clanners/ardon",
+            "image_name": "icons-clanners-ardon.jpg",
+            "name": "Ardon"
+        }
+    ],
+    "cult": "Judges",
+    "culture": "Borca",
+    "image_name": "icons-judges-wortmann.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/30d920c266/icons-judges-wortmann.jpg",
+    "last_seen": "2598",
+    "name": "Wortmann, The Heathen",
+    "rank": "Arbiter",
+    "source": [
+        "Justitian: Moloch"
+    ],
+    "source_url": "https://degenesis.com/world/icons/judges/wortmann-the-heathen",
+    "summary": "An unparalleled rhetorician, who can win any lawsuit with his razor sharp words and impeccable legal expertise. He has taken up the case of Ardon and his Cooperative, fighting for the rights of Justitian's Providers, even if it puts him in opposition to his own Cult. ",
+    "url_name": "wortmann-the-heathen"
+}

@@ -1,0 +1,36 @@
+{
+    "area_of_operations": "Franka, Toulon",
+    "bio_href": "/world/bio/scrappers/eisenhauer",
+    "bio_url": "https://degenesis.com/world/bio/scrappers/eisenhauer",
+    "concept": "The Hermit",
+    "connected_to": [
+        {
+            "href": "/world/icons/scrappers/deich",
+            "image_name": "icons-scrappers-deich.jpg",
+            "name": "Deich"
+        },
+        {
+            "href": "/world/icons/scrappers/nestor",
+            "image_name": "icons-scrappers-nestor.jpg",
+            "name": "Nestor"
+        },
+        {
+            "href": "/world/icons/scrappers/blacksmith",
+            "image_name": "icons-blacksmith.jpg",
+            "name": "Blacksmith"
+        }
+    ],
+    "cult": "Scrappers",
+    "culture": "Borca",
+    "image_name": "icons-scrappers-eisenhauer.jpg",
+    "image_url": "https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/c22a344f37/icons-scrappers-eisenhauer.jpg",
+    "last_seen": "2596",
+    "name": "Eisenhauer",
+    "rank": "Cave Bear",
+    "source": [
+        "The Killing Game"
+    ],
+    "source_url": "https://degenesis.com/world/icons/scrappers/eisenhauer",
+    "summary": "A legendary Cave Bear, and one of the three siblings called the Bear Brothers. He possessed incredible strength and stamina. He was involved with Operation Mirage and died supporting the Iron Brothers in the siege of Toulon.",
+    "url_name": "eisenhauer"
+}
