@@ -43,8 +43,8 @@ Exemple of `.json` file:
 
 ## Profiles
 
-- `*-profile-raw.text`: One file per book. Each entry is separated by an empty line. The profile name is between two `~~~` symbols. See the exemple below.
-- `*-profile.json`: A `.json` representation based on the `*-profile-raw.text` files. 
+- `*-profileraw.text`: One file per book. Each entry is separated by an empty line. The profile name is between two `~~~` symbols. See the exemple below.
+- `*-profiles.json`: A `.json` representation based on the `*-profiles-raw.text` files. 
 
 Exemple of `raw.text` file:
 ```
