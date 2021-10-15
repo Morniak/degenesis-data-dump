@@ -4,6 +4,8 @@ Data extracted from the DEGENESIS [book](https://degenesis.com/downloads/books) 
 
 Degenesis® is TM SIXMOREVODKA Studio GmbH. All rights reserved. This is a 100% non-profit community fanwork project. Before using the data in this repository, please make sure you usage is permited by the SIXMOREVODKA & DEGENESIS fan work policy.
 
+If you like my work, consider [making a donation](https://degenesis.com/support-us) to SIXMOREVODKA.
+
 ## Icons
 
 - `all-icons-urls.txt`: A list of all the icon pages urls. One url peer page, 253 lines.
