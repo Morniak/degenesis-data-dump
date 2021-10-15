@@ -2,7 +2,7 @@
 
 Data extracted from the DEGENESIS [book](https://degenesis.com/downloads/books) and [website](https://degenesis.com).
 
-Degenesis® is TM SIXMOREVODKA Studio GmbH. All rights reserved. This is a 100% non-profit community fanwork project. Before using the data in this repository, please make sure you usage is permited by the SIXMOREVODKA & DEGENESIS fan work policy.
+Degenesis® is TM SIXMOREVODKA Studio GmbH. All rights reserved. This is a 100% non-profit community fanwork project. Before using the data in this repository, please make sure you usage is permited by the SIXMOREVODKA & DEGENESIS [fan work policy](https://degenesis.com/faq).
 
 If you like my work, consider [making a donation](https://degenesis.com/support-us) to SIXMOREVODKA.
 
